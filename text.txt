@@ -695,268 +695,211 @@ dicking, digging
 addimitt, admitted
 recievd, received
 celibarate, celebrate
-he's, his
-
-# Need to start fixing data format here
-
-$ARGENTINA
-001
-prepearing  preparing
-goverment  government
-diplomatic  diplomat [n]
-arrived  arrive [inf]
-settled  settle [inf]
-comming  coming
-rithm  rhythm
-bolss  ?waltz
-drank  drink
-quickle  quickly 2
-jouvenile  juvenile
-compeared  compare [inf]
-beatiful  beautiful
-togegether  together
-smelly  smelling
-and  an
-envolving  involving
-beggining  beginning
-rearing  00 ["taking place"]
-ilness  illness
-epidemia  epidemic
-hig  high
-dieing  dying
-basket_ball  basket-ball
-decsese  disease
-confussion  confusion
-quick  quickly
-faith_fully  faithfully
-002
-carefuly  carefully
-takeing  taking
-acount  account
-candle_light  candlelight
-aproach  approach
-back_door  back-door
-exposition  00 ["exhibition"]
-disconected  disconnected
-though  thought
-glass_case  glas-case
-heefty  hefty
-adress  address
-anual  annual
-explanations  explanation
-sincerly  sincerely
-003
-cluching  clutching
-mentaly  mentally
-loudspeakers  loud-speakers
-ballons  balloons
-girle  girl
-any_thing  anything
-brethless  breathless
-siluhete  silhouette
-my_self  myself
-a  at
-whent  went
-a  the
-let  let's
-finaly  finally
-exausted  exhausted
-heavely  heavily
-fell  feel
-grabed  grabbed 3
-girle_friend  girl_friend
-jumed  jumped
-publiclly  publicly
-excelent  excellent
-every_one  everyone
-wich  which
-symthoms  symptoms
-contageous  contagious
-whater  water
-begining  beginning
-nobady  nobody
-whats  what's
-happenin  happening
-sou  so
-occures  occurs
-004
-never-the-less  nevertheless
-suit-cases  suitcases
-innecessary  unnecessary
-aroused  arose
-welcomed  welcome [adj]
-bed-room  bedroom
-some-one  someone
-mayer  mayor
-renion  reunion ["committee"]
-005
-imponent  ?
-river_bed  river-bed
-epidemy  epidemic
-inquiry  inquire [v]
-inconveniencies  inconvenience
-006
-bycicle  bicycle
-attened  attend
-damadged  damaged 2
-their  there
-belive  believe
-stollen  stolen 2
-sport_car  sports_car
-were  where
-there  their
-deliceaus  delicious
-persent  percentage
-citizen  citizens
-has  have
-childrens  children's
-informe  inform
-poluted  polluted
-want  wants
-alot  a_lot 2
-preventions  prevention
-007
-problems  problem
-answered  answer
-sended  sent
-hollidays  holidays
-familly  family
-youngest  younger
-friends'  friend's
-an  and
-wanted  want
-hatred  hated
-had  have
-radios  radio
-sympthoms  symptoms
-affraid  afraid
-measurment  measurement
-this  these 2
-measurments  measurements
-poralised  paralysed
-asked  ask
-008
-earl  early
-comb  combed
-breath  breathed
-calm  calmed
-through  threw
-appologized  apologized 2
-simptoms  symptoms
-atribute  attribute
-conditions  condition
-pannic  panic
-009
-cielings  ceilings
-being  been
-depressive  depressing
-sincerly  sincerely
-010
-alarm_clock  alarm-clock
-sun_light  sunlight
-lazely  lazily
-triped  tripped
-huredly  hurriedly
-fool  full
-toasts  toast
-stoped  stopped
-traffic_lights  traffic-lights
-acused  accused
-coping  copying
-naught  nought
-severly  severely
-apset  upset
-leve  leave
-my_self  myself
-couvered  covered
-forgot  forgotten
-neiboughs  neighbours
-ran  rang
-accuratley  accurately
-expiriences  experiences
-sincearly  sincerely
-011
-non_written  00 ["unwritten"]
-adolescence  adolescents
-possitive  positive
-social-economical  socio-economical
-desesperate  desperate
-fells  falls
-loosing  losing
-this  these
-012
-flabbergusted  flabbergasted
-destruct  destroy
-prevention  preventative
-013
-pharoa's  pharoah's
-corse  curse
-suttle  subtle
-turqoise  turquoise
-diminute  diminutive
-center  centre
-suprise  surprise
-surveilance  surveillance
-revicing  ?revising
-knowleage  knowledge
-014
-luxurius  luxurious
-syntethic  synthetic
-meters  metres
-entretainments  entertainments
+hes, his
+prepearing,  preparing
+goverment,  government
+diplomatic,  diplomat
+arrived,  arrive
+settled,  settle
+comming,  coming
+rithm,  rhythm
+bolss,  waltz
+drank,  drink
+quickle,  quickly 2
+jouvenile,  juvenile
+compeared,  compare [inf]
+beatiful,  beautiful
+togegether,  together
+smelly,  smelling
+and,  an
+envolving,  involving
+beggining,  beginning
+ilness,  illness
+epidemia,  epidemic
+hig,  high
+dieing,  dying
+decsese,  disease
+confussion,  confusion
+quick,  quickly
+carefuly,  carefully
+takeing,  taking
+acount,  account
+aproach,  approach
+exposition, exhibition
+disconected,  disconnected
+though,  thought
+heefty,  hefty
+adress,  address
+anual,  annual
+explanations,  explanation
+sincerly,  sincerely
+cluching,  clutching
+mentaly,  mentally
+loudspeakers,  loud-speakers
+ballons,  balloons
+girle,  girl
+brethless,  breathless
+siluhete,  silhouette
+whent,  went
+a,  the
+let,  lets
+finaly,  finally
+exausted,  exhausted
+heavely,  heavily
+fell,  feel
+grabed,  grabbed
+girlefriend,  girlfriend
+jumed,  jumped
+publiclly,  publicly
+excelent,  excellent
+wich,  which
+symthoms,  symptoms
+contageous,  contagious
+whater,  water
+begining,  beginning
+nobady,  nobody
+happenin,  happening
+sou,  so
+occures,  occurs
+innecessary,  unnecessary
+aroused,  arose
+welcomed,  welcome 
+mayer,  mayor
+renion,  reunion 
+epidemy,  epidemic
+inquiry,  inquire
+inconveniencies,  inconvenience
+bycicle,  bicycle
+attened,  attend
+damadged,  damaged 
+their,  there
+belive,  believe
+stollen,  stolen 
+were,  where
+there,  their
+deliceaus,  delicious
+persent,  percentage
+citizen, citizens
+has,  have
+informe,  inform
+poluted,  polluted
+want,  wants
+preventions,  prevention
+problems,  problem
+answered,  answer
+sended,  sent
+hollidays,  holidays
+familly,  family
+youngest,  younger
+an,  and
+wanted,  want
+hatred,  hated
+had,  have
+radios,  radio
+sympthoms,  symptoms
+affraid,  afraid
+measurment,  measurement
+this,  these 
+measurments,  measurements
+poralised,  paralysed
+asked,  ask
+earl,  early
+comb, combed
+breath,  breathed
+calm,  calmed
+through,  threw
+appologized,  apologized
+simptoms,  symptoms
+atribute,  attribute
+conditions,  condition
+pannic,  panic
+cielings,  ceilings
+being,  been
+depressive,  depressing
+sincerly,  sincerely
+lazely,  lazily
+triped,  tripped
+huredly,  hurriedly
+fool,  full
+toasts,  toast
+stoped,  stopped
+acused,  accused
+coping,  copying
+naught,  nought
+severly,  severely
+apset,  upset
+leve,  leave
+couvered,  covered
+forgot,  forgotten
+neiboughs,  neighbours
+ran,  rang
+accuratley,  accurately
+expiriences,  experiences
+sincearly, sincerely
+adolescence,  adolescents
+possitive,  positive
+desesperate,  desperate
+fells,  falls
+loosing,  losing
+this,  these
+flabbergusted,  flabbergasted
+destruct,  destroy
+prevention,  preventative
+pharoas,  pharoahs
+corse,  curse
+suttle,  subtle
+turqoise,  turquoise
+diminute, diminutive
+center,  centre
+suprise,  surprise
+surveilance,  surveillance
+revicing, revising
+knowleage,  knowledge
+luxurius,  luxurious
+syntethic,  synthetic
+meters,  metres
+entretainments,  entertainments
 an  a
-hippoppotammus  hippopotamus 2
-suppossed  supposed
-loose  lose
-any_way  anyway
-hardly_working  00 ["working hard"]
-dinning-room  dining-room
-015
-through_out  throughout
-relative  relatively
-motocross  00 ["motorbike scrambling"]
--
+hippoppotammus,  hippopotamus 
+suppossed,  supposed
+loose,  lose
+relative,  relatively
+motocross, motorbike scrambling
+injures,  injuries
+masochist,  masochistic
+misfits,  misfortunes
+comparing,  compared
+trottle,  throttle
+bursting,  busting banging
+screw_driver,  screwdriver
+ungentleman,  ungentelmanly
+quolity,  quality
+allowed,  allow
+signaled,  signalled
+writting,  writing
+advise,  advice
+proceedure,  procedure
+this,  these
+shopkeeper,  shopkeepers
+suplier,  supplier
+sincerelly,  sincerely
+threw,  through
+defficience,  deficiency
+specially,  especially
+off,  of
+the,  they
+earthyless,  unearthly
+realy,  really
+knight,  night
+ilness,  illness
+simptoms,  symptoms
+whotch,  watch
+enything,  anything
+lied,  layed 
+precarian,  precarious
 
-I
-injures  injuries
-masochist  masochistic
-misfits  00 ["misfortunes"]
-comparing  compared
-trottle  throttle
-bursting  busting ["banging"]
-pic-nic  picnic
-screw_driver  screwdriver
-ungentleman  ungentelmanly
-quolity  quality
-allowed  allow
-signaled  signalled
-writting  writing
-advise  advice [n]
-proceedure  procedure
-this  these
-shopkeeper  shopkeeper's
-suplier  supplier
-sincerelly  sincerely
-016
-threw  through
-defficience  deficiency ["disturbance"]
-specially  especially
-off  of
-the  they
-earthyless  00 ["unearthly"]
-realy  really
-knight  night
-out_break  outbreak
-ilness  illness
-can_not  cannot
-simptoms  symptoms
-whotch  watch
-enything  anything
-017
-lied  layed ["lay_down"]
-outcoming  00 ["approaching"]
-pic-nic  picnic
-precarian  precarious
+# Fix Starts here
+
 pinturesque  picturesque
 table_cloth  tablecloth
 forlong  for_long ["for a long time"]
