@@ -705,9 +705,15 @@ comming,  coming
 rithm,  rhythm
 bolss,  waltz
 drank,  drink
+<<<<<<< HEAD
 quickle,  quickly 
 jouvenile,  juvenile
 compeared,  compare
+=======
+quickle,  quickly 2
+jouvenile,  juvenile
+compeared,  compare [inf]
+>>>>>>> 9f8e340be0e0a1c8f70a786d7df14a11a5044a69
 beatiful,  beautiful
 togegether,  together
 smelly,  smelling
@@ -725,7 +731,11 @@ carefuly,  carefully
 takeing,  taking
 acount,  account
 aproach,  approach
+<<<<<<< HEAD
 exposition,  exhibition
+=======
+exposition, exhibition
+>>>>>>> 9f8e340be0e0a1c8f70a786d7df14a11a5044a69
 disconected,  disconnected
 though,  thought
 heefty,  hefty
@@ -740,14 +750,25 @@ ballons,  balloons
 girle,  girl
 brethless,  breathless
 siluhete,  silhouette
+<<<<<<< HEAD
 a,  at
 whent,  went
 let,  let's
+=======
+whent,  went
+a,  the
+let,  lets
+>>>>>>> 9f8e340be0e0a1c8f70a786d7df14a11a5044a69
 finaly,  finally
 exausted,  exhausted
 heavely,  heavily
 fell,  feel
+<<<<<<< HEAD
 grabed,  grabbed 
+=======
+grabed,  grabbed
+girlefriend,  girlfriend
+>>>>>>> 9f8e340be0e0a1c8f70a786d7df14a11a5044a69
 jumed,  jumped
 publiclly,  publicly
 excelent,  excellent
@@ -762,6 +783,7 @@ sou,  so
 occures,  occurs
 innecessary,  unnecessary
 aroused,  arose
+<<<<<<< HEAD
 welcomed,  welcome
 mayer,  mayor
 renion,  reunion 
@@ -771,14 +793,32 @@ inconveniencies,  inconvenience
 bycicle,  bicycle
 attened,  attend
 damadged,  damaged
+=======
+welcomed,  welcome 
+mayer,  mayor
+renion,  reunion 
+epidemy,  epidemic
+inquiry,  inquire
+inconveniencies,  inconvenience
+bycicle,  bicycle
+attened,  attend
+damadged,  damaged 
+>>>>>>> 9f8e340be0e0a1c8f70a786d7df14a11a5044a69
 their,  there
 belive,  believe
 stollen,  stolen 
 were,  where
+<<<<<<< HEAD
 there, their
 deliceaus,  delicious
 persent,  percentage
 citizen,  citizens
+=======
+there,  their
+deliceaus,  delicious
+persent,  percentage
+citizen, citizens
+>>>>>>> 9f8e340be0e0a1c8f70a786d7df14a11a5044a69
 has,  have
 informe,  inform
 poluted,  polluted
@@ -803,11 +843,19 @@ measurments,  measurements
 poralised,  paralysed
 asked,  ask
 earl,  early
+<<<<<<< HEAD
 comb,  combed
 breath,  breathed
 calm,  calmed
 through,  threw
 appologized,  apologized 
+=======
+comb, combed
+breath,  breathed
+calm,  calmed
+through,  threw
+appologized,  apologized
+>>>>>>> 9f8e340be0e0a1c8f70a786d7df14a11a5044a69
 simptoms,  symptoms
 atribute,  attribute
 conditions,  condition
@@ -834,17 +882,26 @@ neiboughs,  neighbours
 ran,  rang
 accuratley,  accurately
 expiriences,  experiences
+<<<<<<< HEAD
 sincearly,  sincerely
 non_written, unwritten
 adolescence,  adolescents
 possitive,  positive
 desesperate,  desperate
 fells, falls
+=======
+sincearly, sincerely
+adolescence,  adolescents
+possitive,  positive
+desesperate,  desperate
+fells,  falls
+>>>>>>> 9f8e340be0e0a1c8f70a786d7df14a11a5044a69
 loosing,  losing
 this,  these
 flabbergusted,  flabbergasted
 destruct,  destroy
 prevention,  preventative
+<<<<<<< HEAD
 corse,  curse
 suttle,  subtle
 turqoise,  turquoise
@@ -853,15 +910,4202 @@ center,  centre
 suprise,  surprise
 surveilance,  surveillance
 revicing,  revising
+=======
+pharoas,  pharoahs
+corse,  curse
+suttle,  subtle
+turqoise,  turquoise
+diminute, diminutive
+center,  centre
+suprise,  surprise
+surveilance,  surveillance
+revicing, revising
+>>>>>>> 9f8e340be0e0a1c8f70a786d7df14a11a5044a69
 knowleage,  knowledge
 luxurius,  luxurious
 syntethic,  synthetic
 meters,  metres
 entretainments,  entertainments
+<<<<<<< HEAD
 an,  a
 hippoppotammus,  hippopotamus 
 suppossed,  supposed
 loose,  lose
+=======
+an  a
+hippoppotammus,  hippopotamus 
+suppossed,  supposed
+loose,  lose
+relative,  relatively
+motocross, motorbike scrambling
+injures,  injuries
+masochist,  masochistic
+misfits,  misfortunes
+comparing,  compared
+trottle,  throttle
+bursting,  busting banging
+screw_driver,  screwdriver
+ungentleman,  ungentelmanly
+quolity,  quality
+allowed,  allow
+signaled,  signalled
+writting,  writing
+advise,  advice
+proceedure,  procedure
+this,  these
+shopkeeper,  shopkeepers
+suplier,  supplier
+sincerelly,  sincerely
+threw,  through
+defficience,  deficiency
+specially,  especially
+off,  of
+the,  they
+earthyless,  unearthly
+realy,  really
+knight,  night
+ilness,  illness
+simptoms,  symptoms
+whotch,  watch
+enything,  anything
+lied,  layed 
+precarian,  precarious
+
+# Fix Starts here
+
+pinturesque  picturesque
+table_cloth  tablecloth
+forlong  for_long ["for a long time"]
+suprise  surprise
+every_thing  everything
+unwelcomed  unwelcome
+night  night's
+unsick  00 ["unwell"]
+citizen  citizens
+som  some
+constructions  contruction
+beggining  beginning
+require  required
+malnutrioned  00 ["suffering from malnutrition"]
+018
+have  had
+my  me 2
+bussiness  business
+hiting  hitting
+aboundant  abundant
+is  are
+dont  don't
+019
+varies  vary
+desenvolves  00 ["develops"]
+divisonary  00 ["devisive"]
+knoledge  knowledge 5
+punctualizing  00 ["indicating"]
+cyvilisation  civilization
+hidrolic  hydrolic
+human's  human
+Scotish  Scottish
+variouse  various
+fundations  00 ["organisations"]
+human's_weights  human_rights
+world_wide  world-wide
+unfunded  unfounded
+assition  assertion
+now-a-day  nowadays 2
+tyme  time
+canceled  cancelled
+simptoms  symptoms
+epatitis  hepatitis
+uncleaned  unclean
+arange  arrange
+disafortunated  00 ["unfortunate"]
+everithing  everything
+020
+fantastical  fantastic
+desesparate  desperate
+021
+chose  chosen
+cocounut  coconut
+type  types
+sea_gulls  seagulls
+tipical  typical
+transpearent  transparent
+swiming  swimming
+to  too
+sceneries  scenery
+meters  metres
+invits  invites
+stayed  stay
+dieing  dying
+apriciate  appreciate
+022
+broard  broad
+to_day  today
+years  year's
+matter-of-factly  00 ["in a m-o-f way"]
+eachother  each_other
+pacific  00 ["quiet"]
+out_bursts  outbursts
+headmistresses  headmistress's
+intension  intention
+attencion  attention
+sincerly  sincerely
+023
+pic-nic  picnic 3
+country-side  countryside
+independant  independent
+multicolour  multicoloured
+bath  bathe
+dissapointing  disappointing
+visiters  visitors
+responsable  responsible
+representant  representative
+024
+quiver  ?quivering
+frighten  fright
+is  are
+unkown  unknown 2
+epoches  epochs
+labourious  laborious
+custumes  customs
+beleivings  beliefs
+neighbour  neighbours'
+mistly  ?mysterious
+merged  ?
+feared  afraid
+under_ground  underground
+imerged  emerged
+umblemished  unblemished
+unwelcomed  unwelcome
+nonenty  ?
+drog  ?
+ninghty  ninety
+twinkled  twinkling
+writting  writing
+overtake  00 ["overcome"]
+tragical  tragic
+inconvenient  inconvenience
+families  family
+governs  govern
+futur  future
+025
+conduces  conducts
+for  from
+standards  standard
+evolutioned  00 ["evolved"]
+the  their
+works  work
+completly  completely
+will  would
+mutism  00 ["silence"]
+assist  00 ["attend"]
+sanity  00 ["sanitation"]
+doubtfull  doubtful
+save  safe
+were  where
+026
+were  where 2
+hole  whole
+fotographs  photographs
+sensation  00 ["impression"]
+nicelly  nicely
+glas  glass 2
+friends  friend's
+excepted  accepted
+laughter  laughted [v]
+couse  course
+parent  parents
+widelly  widely
+afections  affections
+maner  manner
+experiensed  experienced
+this  these
+send  sent
+vaccins  vaccines
+consecuence  consequence
+greatful  grateful
+027
+attracting  attractive
+kind  kinds
+can_not  cannot
+word  world
+as  like
+colour  coloured
+effort  efforts
+worser  worse
+028
+Friday's  Friday
+spoke  speak
+pareants  parents
+divorce  divorced
+sicologist  psychologist
+can  could
+on  about
+did  had
+continue  continued
+riding  reading
+discover  discovered
+reffugiate  00 ["take refuge in"]
+understand  understood
+think  thought
+realised  realise
+knew  know
+screem  scream
+runned  ran
+enter  entered
+schools'  school's
+dinningroom  dining-room
+die  died
+dessidratation  00 ["dehydration"]
+childrens  children
+029
+may_be  maybe
+rang  ring
+started-off  started_off
+green_groser  greengrocer's
+lean  leant
+tumbeled  tumbled
+greengrosser  greengrocer 2
+throw  through
+swet  wet
+provocates  provokes
+everybood  everybody
+commitie  committee
+030
+ever_lasting  everlasting
+apreciated  appreciated
+agresive  aggressive
+knews  news
+this  these
+hear  heard
+rymes  rhyme
+types  type
+affortunately  00 ["and fortunately"]
+woried  worried 2
+urgent  urgently
+inneficiency  inefficiency
+031
+soffa  sofa
+companions  companion's
+niether  neither
+weekened  weekend
+face  faces
+stand  stood
+guiding  guarding
+were  where
+distract  distracted
+agree  agreed
+responsable  responsible
+shopkeeper  shopkeeper's
+gave  given
+cause  caused
+worst  worse 2
+watter  water
+quick  quickly
+unsufficient  insufficient
+event  events
+do  does
+inconvinience  inconvenience
+your  yours
+032
+pilars  pillars
+sea_sickness  sea-sickness
+marvolous  marvelous
+sourvenires  souvenirs 2
+this  these 4
+its  it's ["they are"]
+it's  its
+its  their 2
+smalls  small
+travell  travel
+cheepest  cheapest
+its  his
+religeous  religious
+finde  found
+paint  painting
+synthomes  symptoms
+conse_cuence  consequence
+preventions  prevention
+your  yours
+sincerelly  sincerely
+033
+fist  first 3
+suddently  suddenly
+inmediately  immediately
+distinwished  distinguished
+meet  met
+were  where
+wood  wooden
+perposed  proposed
+throw  through
+did  would
+atractive  attractive
+did  had
+change  changed 2
+this  these
+meating  meeting
+my  me 2
+past  passed 2
+thank  thanked
+a  I
+tanked  thanked
+pound  pounds
+provably  probably
+dimentions  dimensions
+wich  which 2
+doubtfull  doubtful
+lost  loss [n]
+034
+selebrated  celebrated
+turistic  touristic
+this  these 2
+an  a
+coast_line  coastline
+wining  winning
+rafle  raffle
+were  where
+my_self  myself
+understanded  understood
+my  me
+disapearing  disappearing
+whent  went
+they  there 3
+flouting  floating
+layed  lay
+atached  attached
+sale  sail 2
+childrens  children
+dangerous  dangerouse
+send  sent
+035
+sexs  sexes
+developped  developed
+that  these
+severly  severely
+this  these 2
+substince  subsistence
+had  have
+sympthoms  symptoms
+suplier  supplier
+proceede  proceed 2
+036
+spend  spent
+fenomenun  phenomenon
+simmit  summit
+center  central [adj]
+agresive  aggressive
+beeing  being
+pecular  peculiar
+sorrounded  surrounded
+esmerald  emerald
+walks  walk
+generaly  generally
+presure  pressure
+apressiate  appreciate
+misterious  mysterious
+socavated  ?excavated
+fells  falls [v]
+make  made
+fell  feel
+hight  height
+begun  began
+lonliness  loneliness
+salut  salute
+living  leaving
+desappearing  disappearing
+illeness  illness
+minestery  ministry
+meassures  measures
+unplesant  unpleasant
+recieve  receive
+informe  inform
+doubtfull  doubtful
+had  have
+faithfuly  faithfully
+recieved  received
+medicenes  medicines
+send  sent
+037
+excelent  excellent
+airplane  aeroplane
+emmerged  emerged
+recieved  received 2
+tipical  typical
+coconut  coconuts
+horizont  horizon
+drunk  drank
+reseaved  reserved
+this  these
+dissapeared  disappeared
+recieve  receive 2
+lossing  losing
+038
+beggining  beginning
+dance  danced 2
+brasilesion  Brazilian
+swimming_pool  swimming-pool
+seem  seemed
+embarassed  embarrassed
+eccepted  accepted
+sun  sun's
+iluminated  illuminated
+buiscits  biscuits
+cofee  coffee
+excited  exciting
+enjoyabled  enjoyable
+seem  seems
+turn  turned
+comunitee  community
+authority  authorities
+inform  informed
+communtty  community
+communitte  community
+require  required
+disappear  disappears
+girl  girls
+can_not  cannot
+week_end  weekend
+gim  games
+cancel  cancelled
+039
+writting  writing
+unculation  00 ["relationship"]
+thoughtfull  thoughtful
+practicing  practising
+opreciated  appreciated
+strucked  struck
+posponed  postponed
+been  being
+040
+sotial  social
+man  men
+doubbling  doubling
+than  that_an
+illeterated  illiterate
+apoint  appoint
+had  have
+run  ran
+unconstious  unconscious
+anymically  ?
+ecconomical  economical
+attitude  attitudes
+step  stepped
+returned  return
+phone  phoned
+commited  committed
+synthoms  symptoms
+assisting  00 ["attending"]
+an  and
+dired  ?dared
+faithfuly  faithfully
+041
+preparings  00 ["preparations"]
+fly  flight [n]
+were  where 2
+any_body  anybody
+dissapointed  disappointed
+beeing  being
+maked  made
+I've  I'd
+modernize  modern [adj]
+gotic  Gothic
+tidy  tidily
+was  were
+childs  children
+worst  worse
+yours  you
+042
+coloured  colourful
+to  too
+allright  all_right
+swimming_pool  swimming-pool
+frighten  frightened [adj]
+run  ran
+againg  again
+were  where
+althought  although
+quicklier  00 ["more quickly"]
+aparition  apparition ["appearance"]
+043
+unlickyness  00 ["bad luck"]
+prepearing  preparing
+some_thing  something
+no  know
+snapped  00 ["hit"]
+runned  ran
+sirenes  sirens
+stoped  stopped
+heals  heels
+droped  dropped
+moisted  moist ["damp, wet"]
+readible  readable
+examinator  examiner
+movy  00
+controll  control
+worse  worst
+has  have
+be  been
+doubtfull  doubtful
+families  family [adj]
+044
+a  an
+eyery_one  everyone
+the  they
+putten  put
+any_thing  anything
+this  these
+where  were 2
+dressing  dressed_in
+wanted  want [inf]
+every_one  everyone 2
+cryied  cried
+every_body  everybody
+wile  wine
+know_one  no_one
+humor  humour
+agressive  aggressive
+inconviniences  inconveniences
+adressing  addressing
+preven  prevent
+hollidays  holiday
+canceled  cancelled
+sicerfully  ?sincerely
+045
+iluminated  illuminated 2
+clothe  clothes
+search  searched
+tyred  tired 2
+monotanous  monotonous
+nealy  nearly
+arround  around
+multicolour  multicoloured
+air_conditioned  air-conditioner [n]
+emited  emitted
+tryed  tried
+comunicate  communicate
+conscious  consciousness [n]
+dislightful  ?delightful [?disagreeable]
+cleaness  cleanliness
+simpthoms  symptoms
+alarmed  alarm [inf]
+stroked  struck
+envents  events
+patiences  patients
+046
+week-end  weekend
+supersticious  superstitious
+droped  dropped
+hole  00 ["made a hole in"]
+arraving  arriving
+airplanes  aeroplanes
+sympthoms  symptoms
+watersupply  water_supply
+probbably  probably
+your  yours
+sincerly  sincerely
+047
+smart  smartly
+uses  use
+bad  badly
+this  these 2
+satisfactery  satisfactory
+does  do 2
+behavior  behaviour
+childness  00 ["childhood"]
+day  days
+desesperatly  desperately
+mantain  maintain
+childs  children
+by_cause  because
+illness  illnesses
+assitance  assistance
+synthoms  symptoms
+suplier  supplier
+house  houses
+cancelled  cancel [inf]
+commodity  commodities ["amenities"]
+048
+calls  call
+iluminated  illuminated
+swimming_pool  swimming-pool 2
+experimented  00 ["experienced"]
+start  started
+through  threw
+hasn't  haven't
+know  now
+049
+were  where
+frightfull  frightful
+comming  coming
+luckilly  luckily
+writting  writing
+school_days  schooldays
+thousand  thousands
+pleasent  pleasant
+momement  moment
+breacking  breaking
+plese  please
+ilogic  illogical
+representator  representative
+thankfull  thankful
+truth  true [adj]
+doubtfull  doubtful
+families  families'
+050
+respectful  respected
+pearents  parents
+wanted  want [inf]
+industrial  industrialist [n]
+impresion  imprison
+drogadicts  drug_addict 2
+loosing  losing
+die  died
+keeling  killing
+horriful  horrible
+murders  murderers
+know  now
+remembering  00 ["reminding"]
+oportunity  opportunity
+not_known  unknown [adj]
+stamped  stampede
+use  uses
+proved  proving
+throug  through
+interfer  interfered
+it  its
+conduce  00 ["lead" v]
+had  have
+canceled  cancelled
+pitty  pity
+ther  there
+sympthoms  symptoms
+acts  act
+would  will
+dissapear  disappear
+051
+exciting  excited
+notice  noticed
+agree  agreed
+iluminating  illuminating
+prepared  prepare [inf]
+our_selfs  ourselves 2
+call  called
+leaft  left
+fabulose  fabulous
+enormus  enormous
+closse  close [adj]
+whant  want
+laugh  laughed
+play  played
+talk  talked
+ask  asked
+out_break  outbreak
+notice  noticed
+suppies  supplies
+conditions  condition
+vomits  vomiting
+paining  ?
+yous  yours
+052
+tire  tyre
+convertable  convertible
+walk  walked
+lied  lay
+nevers  never
+walks  walked
+scolds  scolded
+unattentive  inattentive
+peak  ?peek
+monstruosities  monstrosities
+despiseable  despicable
+possesive  possessive
+desert  dessert
+053
+belive  believe
+shool  school 2
+sayed  said 3
+use  used
+new  knew
+groop  group 2
+intension  intention
+imposible  impossible
+motocycle  motorcycle
+begun  began
+partys  parties
+were  where
+sory  sorry
+wile  while
+every_one  everyone
+afte  after
+realiced  realised
+simpthoms  symptoms
+allready  already
+cityzens  citizens
+act  acting
+representant  representative
+054
+helding  holding
+emotioned  emotional
+gorgious  gorgeous
+definately  definitely
+devine  divine
+thoun  thrown
+loose  lose
+I  it
+tuck_shop  tuck-shop
+055
+library  00 ["bookshop"]
+stationary  stationery
+enciclopedias  encyclopaedias
+new  knew
+strange_looking  strange-looking
+prision  prison 2
+though  thought
+beguin  begin
+discover  discovering
+find  finding
+responsable  responsible
+show  showed
+fotograph  photograph
+reflectioned  reflected
+change  changed
+reflectioning  reflecting
+non-affected  unaffected
+cancell  cancel
+labell  label
+collaberating  collaborating
+greately  greatly 2
+appreceate  appreciate
+your  you
+056
+communitie  community 2
+super-markets  supermarkets
+doubtfull  doubtful
+057
+locutor  00 ["announcer"]
+adirsors  00 ["announced"]
+transpass  00 ["get throught"]
+welcomed  welcome [adj]
+sounds  sound
+creature  creatures
+year's  ears' CHECK
+belic  00 ["warlike"]
+collission  collision
+epidemia  epidemic
+unpayable  ?
+this  these
+058
+eye's  eye
+rythms  rhythms
+chating  chatting
+conmotion  commotion
+squared  square
+presence  00 ["face up to"]
+out_break  outbreak
+awfull  awful
+awared  aware
+decree  degree
+untill  until
+059
+cientific  scientific
+ubication  00 [= sp ubicacion, 'what is appropriate where']
+apperance  appearance
+adults  adults'
+masive  massive
+close  closed
+symtoms  symptoms
+temporally  temporary
+060
+country-side  countryside
+farside  far_side
+unwelcomed  unwelcome
+sincerly  sincerely
+061
+friend  friends 2
+arrive  arrival [n] 2
+lunch_time  lunch-time
+next_door  nextdoor
+thanks  thank
+sowed  sewed
+a  or
+recieve  receive
+terribles  terrible [adj]
+falses  forces
+practicable  practically
+this  these
+062
+spent  spend
+evrybody  everybody 2
+boaring  boring
+fevent  ?fervent
+introduce  introduced
+vestiments  00 ["clothes"]
+allthough  although
+clothe  00 ["clothing"]
+astonish  astonished
+this  these 2
+sured  sure
+evey_body  everybody 2
+evey_thing  everything
+please  pleased
+freinds  friends
+obeyged  obliged
+worest  worse
+bring  brought
+hand  hands
+ocassion  occasion
+063
+where  were
+crushed_to  crashed_into
+hair-dressed  00 ["coiffured"]
+jewls  jewels
+smockings  00 ["smoking-jackets"]
+arguindals  00 ["decorations"?]
+rythm  rhythm
+mooze  00 ["trance"]
+surprisedly  surprisingly
+rythmically  rhythmically
+greatfully  gratefully
+outline  00 ["underline"]
+uncleaned  unclean
+greatful  grateful
+064
+a  I
+shoping  shopping
+firsts'  first [adj]
+frighten  frightened [adj]
+unboubtlely  undoubtedly
+can_not  cannot
+fainthfully  faithfully
+065
+best_looking  best-looking
+unpolite  impolite
+spechless  speechless
+reasons  reason
+tipical  typical
+for_ever  forever
+066
+ocassion  occasion
+infront  in_front
+choclate  chocolate
+climed  climbed
+marvelous  marvellous 2
+ask  asked
+tiered  tired
+layed  lay
+felt  fell
+sufficien  sufficient
+sincerily  sincerely
+067
+approoving  approving
+disattend  00 ["not pay attention to"]
+immatureness  00 ["immaturity"]
+afront  00 ["deal with"]
+symtons  symptoms 2
+has  have
+068
+disck-jockeys  disc-jockeys 2
+ate  eat [inf]
+drunk  drank
+disck-jockey  disc-jockey
+us  ours
+occured  occurred
+keep  keeping
+stoped  stopped
+have  had
+069
+colourfull  colourful
+ribons  ribbons
+werever  wherever
+door_bell  door-bell
+imiediatly  immediately
+sinic  ?cynical
+living_room  living-room
+suddently  suddenly
+roused  00 ["got up from"]
+knew  new
+disapointed  disappointed
+suplier  supplier
+doubtfull  doubtful
+070
+turists  tourists
+finaly  finally 2
+lose  loose
+exhibit  exhibited
+noticeing  noticing
+this  these
+inconviniences  inconveniences
+losseing  losing
+may_be  maybe
+simptoms  symptoms
+meassures  measures
+meassure  measure
+gain  again
+071
+door_bell  door-bell
+sudenly  suddenly
+sensible  00 ["sensitive"]
+baloons  balloons
+hanged  hung 2
+awfull  awful
+embarassed  embarrassed
+cloth  clothes
+now  know
+assisted  00 ["take part in"]
+loosing  losing
+to  too
+contamined  contaminated
+faithfuly  faithfully
+072
+superstitous  superstitious
+clock_alarm  alarm-clock
+absenses  absences
+anyways  anyway
+these  this
+073
+daughters  daughter's
+weding  wedding
+ambasador  ambassador
+grate  great
+brides  bride's
+program  programme
+beeing  being 2
+finaly  finally
+seremony  ceremony 2
+hole  whole 2
+threw  through
+fried  friend
+every_body  everybody
+cristal  crystal
+tosted  toasted
+writen  written
+apeard  appeared
+door_step  door-step
+climed  climbed 2
+whent  went 2
+multycolour  multicoloured
+hadent  hadn't
+wating  waiting
+ilness  illness
+choosen  chosen
+adress  address
+precarious  00 ["preliminary"]
+recieve  receive
+syntoms  symptoms
+desease  disease 2
+cancell  cancel
+hear  here
+measure  measures
+grate  great
+a  an
+quikely  quickly
+hopping  hoping
+sincearly  sincerely
+074
+excietment  excitement 2
+joyfull  joyful
+sitting_room  sitting-room
+begun  began
+Christmasy  ?Christmassy
+excieted  excited
+inconvinience  inconvenience
+075
+exited  excited
+kindergarted  kindergarten
+disappreaving  disapproving
+wether  whether
+clothings  clothing
+step-father  stepfather
+ceter  setter
+his  her 2
+laughting  laughing
+planified  planned
+critising  criticising
+step_father  stepfather
+porche  porch
+laid  lay
+haited  hated
+out_break  outbreak
+food_borne  food-borne
+every_one  everyone
+communities  community's
+076
+familie's  family's 2
+hectareas  hectares
+inbreeded  inbred
+esploted  exploited ["carried out"]
+loose  lose
+traduction  00 ["translation"]
+teeths  teeth
+millimeter  millimetre
+back-side  backside ["back"]
+were  where
+indefence  00 ["defenceless"]
+creatures  creature's
+ridding  riding
+sintoms  symptoms
+privilige  privilege
+a  an
+077
+bye  buy
+meters  metres
+decide  decided
+frieght  fright
+close  closed
+trunks  trunk
+leting  letting
+fortunatly  fortunately
+agried  agreed
+sons  son's
+comming  coming
+resent  recent
+ilness  illness
+doutful  doubtful
+atendind  attending
+078
+defenseless  defenceless
+defenses  defences
+human_kind  humankind
+the  they
+arlegy  allergy
+wonder  wander
+loose  lose
+canceling  cancelling
+079
+importants  important
+centers  centres
+aproximately  approximately
+interupting  interrupting
+builded  built
+sky  skiing 3
+localized  00 ["located"]
+center  centre 2
+stoped  stopped 2
+of  ?off
+airplane  aeroplane
+transport  transported
+package  00 ["baggages"]
+excelent  excellent
+serve  served
+impacted  00 ["impressed, overcome"]
+skying  skiing 3
+enourmous  enormous
+sorrounded  surrounded
+habited  inhabited
+see  sea
+shined  shone
+lonelyness  loneliness
+apear  appear ["happen"]
+carefuly  carefully
+loosed  lost
+favulouse  fabulous
+travell  travel ["journey"]
+endend  ended ["completed"]
+drinked  drunk
+decide  decided 2
+wich  which
+drunk  drank
+change  changed
+cloths  clothes
+restaurante  restaurant
+fourty  forty
+estroundinarilly  extraordinary
+more  most
+had  has 2
+families  family
+had  have
+inconvinients  inconveniences
+uncleaned  unclean
+selled  sold
+plage  plague
+your  yours
+sincirelly  sincerely
+080
+woke  woken
+pijama  pyjamas
+remember  remembered
+realy  really
+081
+ranged  rang
+inmediately  immediately
+tryied  tried
+analize  analyse
+envolved  involved
+worring  worrying
+vestiment  00 ["clothing"]
+approched  approached
+beated  beat
+exhaustably  00 ["furiously"]
+had  has
+belive  believe
+ilness  illness
+experimenting  00 ["experiencing"]
+suspision  suspicion
+starts  start
+082
+biggining  beginning
+held  hold
+rain  rained
+hapiness  happiness 2
+silouhetes  silhouettes
+aproaching  approaching
+confussion  confusion
+jewlery  jewelry
+bugglars  burglars 2
+every_body  everybody
+screems  screams
+the  they
+lukely  luckily 2
+riffle  rifle
+vigilating  00 ["survey"]
+jewls  jewels
+affraid  afraid
+hapilly  happily
+recieved  received
+confussion  confusion
+allien  alien
+assist  00 ["attend"]
+cancell  cancel
+orther  order
+inconvinience  inconvenience
+084
+living_room  living-room
+undescriptable  indescribable
+mothers  mother's
+sorrounded  surrounded
+examines  examinations
+year  years
+week-end  weekend
+effort  00 ["make the effort"]
+sprotsman  sportsman
+of  have
+lonliness  loneliness
+lead  led
+accesed  accessed ["obtained"]
+marvelous  marvellous
+new  knew
+sorrounding  surroundings
+vecinity  vicinity
+inconveniants  inconveniences
+085
+pick-nick  picnic 2
+crude  ?cruel  the * winter
+blanckate  blanket
+allert  alert
+beated  beat
+cheak  cheek
+ammount  amount
+therefor  therefore
+086
+impossent  imposing
+mid-summer  midsummer
+new-year's  New Year's
+exitement  excitement
+champaigne  champagne 2
+meter  metre
+compagnion  companion
+two's  twos
+one's  ones
+intoxicated  00 ["poisoned"]
+recieve  receive
+087
+diferent  different 2
+nearby  near [to]
+loved  00 ["favourite"]
+hodeceondist  ?
+thier  their
+were  where 2
+docous  00 [?"beggars"]
+winoes  ?
+where  were
+floor  floors
+metals  metal [adj]
+exposition  00 ["exhibition"]
+arduteotques  ?
+photographers  photographer's
+imaginatious  imaginative
+beautifull  beautiful 2
+controversed  controversial
+now  know
+agents  agent
+comunity  community
+ask  asks
+inmediate  immediate
+088
+fotos  photos
+insted  instead
+feeled  felt
+sailor  sailors'
+imposible  impossible
+my_hand_palms  the_palms_of_my_hands
+forid  forehead
+knoledge  knowledge
+schoold  school
+symptons  symptoms
+089
+beated  beat
+saw  see
+090
+mids  midst
+transperant  transparent
+life_times  lifetimes
+oportunity  opportunity
+dwaf  dwarf
+theese  these 5
+inocent  innocent 2
+inteligent  intelligent
+head  heads
+peaces  pieces
+harmfull  harmful
+deffinition  definition
+suposed  supposed
+unwelcomed  unwelcome 2
+unconcience  unconscious
+somthing  something
+epidemie  epidemic
+sincearly  sincerely
+091
+program  programme
+inmediately  immediately
+lightpost  00 ["lamp-post"]
+stations  station's
+comming  coming
+under_aged  under-aged 2
+registrate  register
+adresses  addresses
+over-aged  over-aged
+phone  phoned
+quarintine  quarantine
+symptons  symptoms
+vomitting  vomiting
+claimming  claiming
+epidemy  epidemic
+092
+thoug  though
+millons  millions
+buish  bluish
+weared  wearing
+manouvering  manoeuvring
+worst  worse
+093
+crowdy  crowded
+run  ran
+come  came
+its'  its
+immidiately  immediately
+ridding  riding
+bended  bent
+summing  summoning
+revised  00 ["looked at, checked"]
+punch  puncture
+bursted  burst
+where  were
+silouettes  silhouettes
+pittying  pitying
+forgoten  forgotten
+advised  00 ["warned"]
+undoubtful  00 ["of dubious quality"]
+unpoisoned  00 ["poisoned"]
+representator  representative
+094
+the  their
+suit  suits
+rememberings  00 ["memories"]
+cry  crying
+quicked  kicked
+entry  entree
+varieted  varied ["mixed"]
+lucks  luck
+rythm  rhythm
+iluminating  illuminating
+colors  colours
+day_light  daylight
+impecable  impeccable
+good_bye  good-bye
+whom  who 2
+doughtful  doubtful
+arising  00 ["leading to"]
+preocupied  preoccupied
+slowliness  slowness ["delay"]
+095
+run  ran
+these  this
+096
+happen  happened
+mode  mood 2
+depress  depressed 2
+hopping  hoping
+wonderfull  wonderful
+an  and
+emontion  emotional ["moved"]
+happyness  happiness
+guitarr  guitar 2
+dance  dancing
+friends  friend
+realize  realized
+pail  pale
+run  ran
+upto  up_to
+though  thought
+who  how
+look  looks
+measurements  measures
+faithfull  faithfully
+your  yours
+097
+spectacularity  00 ["spectacular effect"]
+scholar  school [adj]
+head-ache  headache
+098
+appart  apart 2
+agressive  aggressive
+contageous  contagious
+possitively  positively
+possitive  positive
+099
+begining  beginning
+succesfull  successful
+every_body  everybody
+out_side  outside
+were  where
+conect  connect
+hand_out  hand-out
+looser  loser
+wisky  whisky
+what_ever  whatever
+rehersals  rehearsals
+rong  wrong
+puting  putting
+cancell  cancel
+simptoms  symptoms
+acompanied  accompanied
+ar  our
+resorces  resources
+controle  control
+sircumstances  circumstances
+trooly  truly
+100
+table_tennis  table-tennis
+holidays  holiday
+this  these
+obligued  obliged
+$BRUNEI
+001M
+years  year
+may  my
+tha  that
+air_port  airport 5
+reached  reach [inf]
+a  as
+too  took
+enjoyed  enjoy [inf]
+firs  first
+entered  enter [inf]
+lands  land
+more_over  moreover
+exausted  exhausted
+hand_crafs  handicrafts
+difference  differnt 2
+cabel  cable 4
+bussy  busy
+effot  ?afford
+mid_night  midnight
+out_break  outbreak 2
+ill_ness  illness
+foot_poisoning  food-poisoning
+mouer_over  moreover
+effected  affect [inf]
+sent  send [inf] 2
+you  your
+recovered  recover [inf]
+represent  representative
+002M
+ever  even
+mesuem  museum
+slipary  slippery 4
+grand_father  grandfather's
+begin  began
+come  came
+laders  ladders 4
+sillpary  slippery
+water_fall  waterfall
+enterence  entrance
+forbiding  forbidding
+cause  because
+tourches  torches
+droping  dropping [?"dripping"]
+approched  approached
+clift  cliff
+fill  full
+birds_sheets  bird-shit
+sun_light  sunlight
+opean  open
+goin  going
+valubles  valuable
+caveman  cavemen
+touched  torch
+consits  consisted
+go  went
+passase  passage
+passed  pass [inf] 2
+can  could 2
+throw  through
+sliped  slipped
+every_one  everyone
+hurt  hut
+birds_nest  birds'_nests
+bambus  bamboo [sticks]
+bird_nest  birds'_nests
+ansestor  ancestors
+intrest  interest
+has  have
+inconvenice  inconvenience
+un_healthy  unhealthy
+sourrounding  surroundings
+doubtfull  doubtful
+border  bothered
+unlicined  ?unlicensed
+unresponsible  irresponsible
+your  yours
+faithfuly  faithfully
+003M
+occussion  occasion
+living_room  living-room
+fomerly  formally
+begun  began 2
+my_self  myself
+off  of
+grabing  grabbing
+girl_friends  girlfriend's
+real  really
+mid-night  midnight
+diesease  disease
+furthur  further
+004M
+homeworks  homework 3
+whirl  ?wild  Malcolm was really a * person
+tuckshop  tuck-shop
+was  were
+advice  advise [v]
+gone  went
+anymore  any_more 2
+explaning  explaining
+surprised  surprise [n]
+loss  lose
+food_poisoning  food-poisoning
+005M
+window_shopping  window-shopping
+off  of
+nicely  00 ["nice_way"]
+out_going  outgoing
+tight_fitting  tight-fitting
+make_up  make-up 2
+sophistikated  sophisticated
+lady-like  ladylike
+eventhough  even_though
+whose  who's ["who has"]
+Austrailia  Australia
+have  has
+patients  patient's
+food_poisoning  food-poisoning
+greatful  grateful
+006M
+foot  feet
+accomodate  accommodate
+slided  slid
+cheerleaders  cheer-leaders
+lead  led
+007M
+alot  a_lot
+dining_room  dining-room
+nite  night
+relatives  relatives'
+past_times  pastimes
+are  is
+008M
+specially  especially
+magnificient  magnificent 2
+child_birth  childbirth
+symbal  symbol
+jaw-sticks  joss-sticks
+whats  what's
+sun-set  sunset 2
+sun-rise  sunrise
+seen  saw
+though  thought
+poisioning  poisoning
+009M
+is  was
+unlogic  illogical
+laughed  laugh [inf]
+arguements  arguments
+occured  occurred
+party_gooers  party-goers
+are  is
+were  was
+sting  stink ["stinking"]
+authorities  authorities'
+010M
+inspite  in_spite
+behaviours  behaviour ["habits"]
+do  does
+heartedly  00 ["whole-heartedly"]
+felt  fell
+quite  quiet
+011M
+they  there
+Abdul  Abdul's 8
+write  wrote
+012M
+labour  labourer
+families  family ["relatives, members of the family"]
+hard_working  hard-working
+contracter  contractor
+employers  employees
+popular  popularity
+Jamil  Jamil's
+Ali  Ali's 2
+comprehensive  comprehension
+father  father's
+punnishment  punishment
+increased  increase [n]
+lead  led
+atendance  attendance
+punnishing  punishing
+oppurtunity  opportunity
+infact  in_fact 4
+liked  like [conj]
+happened  happen [inf]
+occured  occurred
+grate_ful  grateful
+013M
+tickling  ticking
+hasn't  hadn't
+party_crushers  00 ["gate-crashers"]
+three-quarter  three-quarters
+flies  flew
+swimming_pool  swimming-pool
+feel  felt
+out-break  outbreak
+food_poisoning  food-poisoning
+were  was
+school_children  schoolchildren
+this  these
+amoebid  amoebic
+dysentry  dysentery
+water_borne  water-borne
+its  it's
+014M
+step-mother  stepmother 4
+mischevious  mischievous
+clothings  clothing
+hyenna  hyenas
+dining_table  dining-table
+gush  gust
+your_self  yourself
+is  are
+week  week's
+015M
+foodstuff  foodstuffs
+burdened  a_burden
+slack  slacken [v]
+016M
+mischievious  mischievous
+Louisa  Louisa's
+atleast  at_least
+tea_pot  teapot
+tea_cups  teacups
+begining  beginning
+fathers  father's
+grandmothers  grandmother's
+accur  occur
+karete  karate
+my_self  myself
+ispite  in_spite
+inocence  innocence
+chiken  chicken
+out_break  outbreak
+effecting  affecting
+efficeintly  efficiently
+appriciate  appreciate
+017M
+arrange_ment  arrangements
+class_mates  classmates
+begins  began
+have  had
+awhile  a_while
+muisic  music
+hold  held
+shake  shook
+food_poisoning  food-poisoning
+breakout  outbreak
+018M
+bad_tempered  bad-tempered
+egg_shells  egg-shells
+witched  00 ["witch-like"]
+make-ups  make-up
+familie's  family's ["relatives"]
+had  has
+019M
+chipping  chirping [or "cheeping"]
+have  has 3
+lost  lose
+pocket_money  pocket-money
+mercylessly  mercilessly
+embrassed  embarrassed
+principle  principal
+every_thing  everything
+out_break  outbreak
+notices  notice
+thank-you  thank_you
+sincerly  sincerely
+020C
+vanilla_flavour  vanilla-flavour
+embarassed  embarrassed 2
+embarassment  embarrassment
+let  led 2
+let  lead
+021C
+heard  hear
+cried  cry [n]
+kapt  kept
+a  an
+inconsideration  00 ["lack of consideration"]
+epidermic  epidemic
+sometime  some_time
+everyday  every_day
+are  is
+this  these
+022C
+permmission  permission ["permit"] 2
+wild_lifes  wildlife
+ernegetic  energetic
+mouse_deers  00 [?moose deer]
+eaten  eating
+023C
+companied  accompanied
+sixty  six
+alot  a_lot
+warmingly  warmly
+musics  music
+everybody  everybody's
+ferced  forced
+a  an
+024C
+oppotunity  opportunity
+hight  high
+researvation  reservation
+incase  in_case
+wheather  weather
+suite  suitable
+beautify  beautiful
+extra-ordinary  extraordinary
+acher  acre
+bolling  bowling
+groundfloor  ground_floor
+unforgetable  unforgettable
+lough  ?loud  a * noise
+was  were
+embaresing  embarrassing
+looser  loser
+an  a
+this  these
+further_more  furthermore
+supple  supply
+inconveniency  inconvenience
+panic  panicky
+025C
+alot  a_lot 2
+a  at
+tranditional  traditional
+food  foods
+want  what
+finnished  finished
+programe  programme
+everthing  everything
+cartfull  cartful
+find  found
+reacieved  received
+cousin  cousin's 2
+jack-in-box  jack-in-a-box
+does  do
+to  too
+laughters  laughter
+everbody  everybody
+less  least
+stationaries  stationery
+teaset  tea-set
+shown  showed
+it  it's
+hosipital  hospital
+slower  slowly
+worst  worse
+026C
+accordingly  according
+aganist  against ["be against"]
+fore-father  forefathers
+hair's  hair
+its'  its
+standardised  standard [n] 2
+highly  high [adj]  a * standardised of living
+occurance  occurrence
+cleanlining  ?cleaning  the * workers often late
+they  their
+untidyness  untidiness
+disturbuted  distributed
+factors  factor
+unsatisfactory  00 ["dissatisfaction"]
+has  have
+act's  action 2
+I'm  I
+your's  your
+stuffs  staff
+027C
+today  today's
+laggages  luggage
+quiently  quietly
+explored  explore
+plane  plan [v]
+necessaties  necessities
+mystery  mysterious [adj]
+relax  relaxed [adj]
+descented  descended
+contempted  contented
+represented  represent
+028C
+alway  always
+excitment  excitement
+brough  brought
+champaings  champagne
+sits  sat
+drinks  drank
+sings  sang
+sing  sang
+tose  toast
+their  the
+underware  underwear
+these  there's
+selfrespect  self-respect
+hold  held
+burned  burnt [adj]
+has  had
+have  had
+law_abiding  law-abiding 2
+even  ?event [?evening]
+foods  food
+029C
+breez  breeze
+make  made
+near_buy  nearby
+everthing  everything
+is  was 3
+have  had 2
+mine  mind
+starts  started 2
+come  came
+begin  began
+were  was
+themself  themselves
+get  got
+dance  dancing
+alot  a_lot
+everythings  everything
+030C
+her's  her [adj]
+eighteen  eighteenth 2
+closed  close [adj]
+transfered  transferred
+eagered  eager
+hard_working  hard-working
+have  had
+donates  donated
+surprised  surprise [adj]
+wear  were
+birthday's  birthday  the * cake
+sing  sang
+cuts  cut
+mid-night  midnight
+leave  left
+temporary  temporarily
+becaused  because
+school_children  schoolchildren
+means  meant
+supply  supplies
+were  was 2
+causes  caused
+concerne  concerned
+there_fore  therefore 2
+wheather  whether
+031C
+is  was 2
+it  they
+have  had
+school_children  schoolchildren
+sent  send
+032C
+got  have
+threat  treat
+called  call
+class_mate  classmate
+will  would
+invites  invited
+met  meet
+reopens  reopened
+awarness  awareness
+theres  there's 2
+changed  change
+swear  swore
+athough  although
+food  foods
+sometime  some_time
+feared  00 ["are afraid"]
+033C
+tells  told 3
+describs  described
+will  would 5
+fells  feel
+past  passed
+holidays  holiday
+is  was
+are  were
+do  did
+eat  ate
+busying  busy
+see  saw
+droped  dropped 2
+say  said
+complaining  complaint
+choosed  chose
+mid-night  midnight
+dream  dreaming
+fell  felt
+sitting_room  sitting-room
+food_poisoning  food-poisoning
+desease  diseases
+deseases  diseases 2
+can_not  cannot
+desease  disease
+no_body  nobody
+inconvinient  inconvenient
+your  yours
+034M
+they  there
+hanged  hanging
+saw  see
+drink  drunk
+it  its
+sometime  some_time
+every_body  everybody 3
+wedding's  wedding
+annonced  announced
+untill  until 2
+every_one  everyone 2
+nice  nicely
+non  none
+continuoued  continued
+begun  began
+some_time  sometimes
+thiner  thinner
+wase  was
+is  are 3
+doubtfull  doubtful
+worse  worst
+slow  slowly
+035C
+attening  attending
+wake  woke
+table_clothes  tablecloths
+bed_room  bedroom
+sat  sitting
+guest  guess
+worn  wore ["put on"]
+bath_room  bathroom
+down_stair  downstairs
+luckly  luckily
+shaked  shook
+attended  attending
+food_poisoning  food-poisoning
+thank-you  thank_you
+your  yours  * faithfully
+036C
+experient  experiencing
+unfortune  unfortunate
+warnder  wandering
+entering  entered
+careless  carelessness
+leave  was_left
+droutful  ?dreadful
+pocket_money  pocket-money
+embrass  embarrassed
+glanted  ?glanced [?glared]
+stomatch  stomach
+tuckshop  tuck-shop
+foods  food
+aleardy  already
+beared  bearing
+presuadement  persuasion
+still  stay
+had  has
+unsufficiwnt  insufficient
+health  healthy
+suffered  suffering
+fell  falling
+is  are
+your  yours
+037C
+amoung  among
+infront  in_front 2
+infact  in_fact
+irrespect  irrespectively
+038C
+experinced  experienced 3
+leasons  lessons
+late_comers  late-comers
+greated  greeted
+laughters  laughter
+embarassment  embarrassment 2
+corpol  corporal
+tuck_shop  tuck-shop
+food_poisoning  food-poisoning
+occured  occurred
+039C
+excepted  accepted
+helped  help [inf]
+alot  a_lot
+litted  lit
+has  had
+sat  sitting
+is  was
+aquanted  aquainted
+was  were
+embarrasing  embarrassing
+announces  announced
+expressed  express [inf]
+whobbly  wobbly
+out_spoken  outspoken
+will  would
+advise  advice [n]
+threat  treat 2
+X'mas  Xmas 4
+have  had 3
+feel  felt
+are  is
+maybe  may_be
+had  have
+heath  health
+thank-you  thank_you
+040C
+can  could
+make  made
+choose  chose
+have  had
+fatigue  fatigued [adj]
+inorder  in_order
+anymore  any_more
+sometimes  some_times
+food_poisoning  food-poisoning
+were  was
+done  do
+worst  worse 2
+041C
+rembered  remember
+kept  keep
+closed  close [adj]
+inccident  incident
+have  had
+went  go
+firm  film
+get  getting
+went  gone
+leave  lived
+entered  enter
+used  use [n]
+liked  like [conj]
+complaning  complaining
+th  the
+out  our
+what_soever  whatsoever
+these  this 2
+propably  properly
+lost  lose [inf]
+school_children  schoolchildren
+studied  studies [n]
+food_poisoning  food-poisoning 2
+can  canned  to buy * food
+042C
+go  went
+whispered  whisper [int]
+he's  he_had
+stopped  stop [inf]
+distate  00 ["resented"]
+would  will
+had  has
+spead  spread
+life  lives [n]
+occassion  occasions ["circumstances"]
+prayed  pray
+043C
+rings  rang
+asks  asked 2
+hear  heard
+see  saw 4
+him  his
+means  meant
+think  thought
+is  was 2
+runs  ran
+begins  begin
+am  was 2
+go  went 2
+has  had 2
+takes  took
+have  had
+can  could
+grows  grew
+everyday  every_day
+sitting_room  sitting-room
+feels  felt
+leave  left
+beers  beer 2
+arouse  arisen
+cancel  be_cancelled
+044C
+years_old  year-old
+will  would
+pyjama  pyjamas
+punctual  puncture [n]
+noone  no_one
+promised  promise [n]
+was  00 ["had"]
+breaks  broke ["ended for the day"]
+anymore  any_more
+surprised  surprise [n]
+worst  worse 2
+disobeyed  disobeying
+think  thought
+are  is 3
+brings  bring
+mean  means
+uncleaned  unclean
+is  are
+is  will_be
+alone  along
+your  yours
+045C
+opered  offered
+does  did
+bought  buy
+was  were
+curry  curried [adj]
+beef_steak  beefsteak
+such  ?sort  Ah Min * of made a farewell speech
+many  much
+looks  lokked
+wolf  wolves
+eat  ate
+can  could
+begins  began
+and  any
+around  round [n]
+fine  find [v]
+cannot  could_not
+make  made
+fall_on  fell_down
+sexy-buffalo  sexy_buffalo
+school_children  schoolchildren
+closed  close [inf]
+causes  caused
+asked  ask
+thanked  thank
+046C
+where  when
+everythings  everything
+wake  woke 2
+is  are
+will  would 2
+came  coming
+split  splits
+glaced  glared
+road_side  roadside
+belong  belonging
+class_room  classroom
+don't  doesn't
+absene  absent
+go  went
+got  get
+resulting  results
+had  has
+caused  cost
+seem  seems
+whom  00
+had_been  was
+had_been  were
+closed  closure [n]
+take  taken
+047C
+will  would
+were  where
+enthuism  enthusiasm
+its  it's 2
+medival  mediaeval 4
+clergy_men  clergymen
+amasement  amazement
+every  ever
+baron  barren
+luck  lucky
+give  gave
+chirpping  chirping
+twitting  twittering
+man_made  man-made
+catergoys  category
+astronouts  astronauts
+space_suit  space-suit
+sucessful  successful
+unsucessful  unsuccessful
+joyrides  joy-rides
+vomitting  vomiting
+belived  believe
+food_poisoning  food-poisoning
+are  is
+uncleaned  unclean 2
+school_children  schoolchildren 2
+many  much
+believed  believe
+symptom  symptoms
+had  has
+off  of
+child  child's
+up_to_date  up-to-date
+demand  demands
+048C
+party-crushers  00 ["gate-crashers"] 2
+stationeris  stationery
+worthed  worthwhile 2
+nine  nines  dressed up to the *
+guest  guests
+dance  dances
+so_what  somewhat
+has  was
+passed  past
+officer-in-charge  officer_in_charge
+wide_spread  widespread
+villages  villagers
+school_children  schoolchildren
+perharps  perhaps
+regreting  regrettable
+appreciation  00 ["grateful"]
+organised  organise
+your  yours
+049C
+took  taken
+noticed  notice [n]
+infront  in_front
+band  bang
+stepped  to_step
+sterring  steering-wheel
+unconcious  unconscious 2
+was  were
+passer_by  passers-by
+regular  regulate [v]
+noted  notes [n]
+damage  damaged
+parent  parents
+remind  reminds
+cooperate  cooperative [adj]
+temperate  temperature
+patient  patients
+050C
+happy_go_lucky  happy-go-lucky
+closes  closest
+worser  worse
+sometime  sometimes
+tuck_shop  tuck-shop
+lose  lost
+causes  caused
+dead  death 2
+has  were
+leaves  left
+possibilities  possibility
+caused  cause
+051C
+know  knew
+will  would
+knows  knew
+houseworks  housework
+are  were
+study  studies
+embarassed  embarrassed
+conversations  conversation
+ceases  ceased
+the  they
+good_bye  good-bye
+past  passed
+had  have
+food_poisoning  food-poisoning 2
+situations  situation
+may_be  maybe
+052C
+were  was 2
+borther  bother
+minute  minutes
+one  ones
+know  knew
+do  did
+get  got
+starring  staring
+advice  advised
+seems  seemed 2
+here  her
+arrives  arrived
+brings  brought
+sung  sang
+blew  blown
+newly  new
+tagged  tap [n]
+good_bye  good-bye
+are  is
+amoug  among
+them  it
+writting  writing
+053C
+thirsts  thirst
+glitters  glittered
+profused  profuse
+054C
+will  would
+bored  bore
+one_self  oneself
+party  parties
+mine  mind
+has  had
+musics  music
+were  was
+naturaly  naturally
+by  but
+had_been  was
+sitting  sat
+remeber  remember
+opinon  opinion
+worst  worse
+suppling  supplying 2
+pubil  public
+liefs  lives
+sent  send
+died  die
+death  dead [adj]
+inform  informed [adj]
+055C
+friends  friend's
+infront  in_front
+crowded  crowd [n]
+were  was 2
+chances  chance
+exciting  excited
+enjoyfull  joyful
+buzying  busy
+local  locality
+nowaday  nowadays
+loss  lose
+every_one  everyone
+acquired  require
+your  yours
+056C
+stand  stood
+surprised  surprise [n]
+tied  tie [v]
+will  would
+saved  save [inf]
+box  boxed ["punched"]
+these  this 2
+died  die [inf]
+became  become
+isn't  aren't
+near_by  nearby
+thankyou  thank_you
+057C
+itself  themselves
+musics  music
+infact  in_fact
+ones  one
+were  was
+fulled  00 ["a lot of"]
+worse  worst
+close_down  close-down
+incase  in_case
+led  lead
+loss  lose
+suffered  suffer [inf]
+dead  death [inf]
+are  is
+helps  help [n]
+quickily  quickly
+dead-toll  death-toll
+thank-your  thank_you
+058C
+were  had
+have  had 7
+was  were
+interesting_of  interested_in
+sometimes  some_time
+muzium  museum 2
+status  statue 2
+hang  hanging
+describtion  description
+govern  governing
+querrelling  quarrelling
+querrel  quarrel
+choosen  chosen
+food_poisoning  food-poisoning
+occurring  occurrence
+slow_to_act  slow_actions
+important  importance
+easily  easy
+causes  caused
+occur  occurring
+your  yours
+059C
+went  gone
+one  one's
+congradulated  congratulated
+chated  chatted
+shall  should
+granded  granted
+wide  wild
+our-selves  ourselves
+out_break  outbreak
+inorder  in_order
+school_children  schoolchildren
+tuckshop  tuck-shop
+these  this
+is  was
+060C
+rough_looking  rough-looking
+butter_fingers  butter-fingers
+was  were
+stayed  stay
+unconcious  unconscious
+school_children  schoolchildren
+your  yours
+061C
+semi_conscious  semi-conscious
+alarm_clock  alarm-clock
+of  off
+mothers  mother's
+cereals  cereal
+padlering  peddling
+sometime  some_time
+handle_bars  handle-bars
+mud  muddy [adj]
+my_self  myself 2
+bad  bag
+home-work  homework 2
+grou  ground
+sounds  sound
+bells  bell
+retreived  retrieved
+class_mates  classmates
+mud_caked  mud-caked
+mud_splotched  mud-splotched
+teachers  teacher's
+snickering  sniggering
+beet_root  beetroot
+sick_room  sick-room 2
+when  went
+school_day  schoolday
+and  any
+grand_mother's  grandmother's
+my  I
+out_break  outbreak 3
+shopkeep  shopkeeper
+lead  led
+inconvinience  incenvenience 2
+food_poisoning  food-poisoning
+curl  cure
+yous  yours
+062C
+study  studying
+converted  conversed
+luckly  luckily
+closed  close [adj] 2
+helps  helped
+secreted  secrets
+deth  death
+than  that
+mid_night  midnight 2
+accompained  accompany 2
+quite  quiet
+he  her 2
+stayed  stay
+quarreled  quarrel [inf]
+these  this 2
+somethings  something
+mid_ages  middle-aged
+father  father's
+don't  didn't
+sometime  sometimes
+cried  crying 2
+told  tell
+begged  begging
+married  marry 2
+hated  hate
+someday  some_days
+was  had 2
+amost  almost
+would  wouldn't
+listened  listen
+smokes  smoked
+drinks  drank
+heart_broken  heartbroken
+set  sent
+espiceally  especially
+thousand  thousands 2
+school_children  schoolchildren
+probarly  probably
+infference  ?infected
+inquirly  inquiry
+weeks  week
+your  yours
+063C
+seems  seemed
+gladful  glad
+fullfill  fulfil
+everyday  every_day
+bored  boring [adj]
+good_for_nothing  good-for-nothing
+behavior  behaviour 2
+their  his
+desired  desire [n]
+gamble  gambling [n]
+lend  00 ["borrow"]
+is  was
+killed  kill [adj]
+frighten  frightened [adj]
+loss  lost
+seperate  separate
+food_poisoning  food-poisoning
+faitfully  faithfully
+064C
+used  use ["wear"]
+in_between  in-between
+food_poisoning  food-poisoning 2
+are  is 2
+deads  deaths
+school_children  school-children 2
+these  this
+your  yours
+065C
+bed_time  bedtime
+can  could
+tire  tyre 2
+will  would
+paddled  pedalled
+has  have
+066C
+half_way  half-way 2
+sprang  sprained
+left  leave
+sit  seats
+was  were
+dentition  detention
+these  this 3
+do  did
+home_work  homework
+tommorrow  tomorrow
+worse  worst
+school_children  schoolchildren
+loss  lost
+causes  caused
+out_break  outbreak
+coopearate  cooperate
+067C
+school_days  schooldays 2
+budge  batch
+were  was 5
+have  had 3
+cookings  cooking
+through_out  throughout
+Malays  Malay [adj]
+crimed  00  we all laughed until our stomachs *
+mine  mind 3
+rhythmatically  rhythmically
+crazyly  crazily
+it  I
+blocked  block [n]
+non  none
+is  was
+laughed  laugh [inf]
+chose  choice [n]
+ashame  ashamed [adj]
+complain  complaint
+food_poisoning  food-poisoning 2
+schools  schools'
+tuck_shops  tuck-shops 2
+inorder  in_order
+pass  past
+send  sent
+needed  need
+068C
+relief  relieved
+one'oclock  one_o'clock
+bought  bring
+finished  finishing
+strike  struck
+embrassed  embarrassed
+disater  disaster
+food_poisoning  food-poisoning
+them  it
+overhere  over_here
+schoolkeeper  school_keeper [?= "shopkeeper"]
+vomitting  vomiting
+stomach_ache  stomache-ache
+slowing  slowly
+thank-you  thank_you 2
+069C
+dream_land  dreamland
+took  take [inf]
+prepared  prepare [inf]
+might_be  maybe
+on  no
+don't  doesn't
+head_master  headmaster 2
+queched  quenched
+has  was
+welcomed  welcome
+had  have
+woke  woken
+unsatisfactor  unsatisfactory
+school_children  schoolchildren
+led  lead
+shop_keeper  shopkeepers
+lacked_of  lacking
+uncleaned  unclean
+seriously  serious
+faintfully  faithfully
+070C
+story_book  story-book 2
+upstair  upstairs 3
+faitly  00 ["rushed"]
+leaved  left
+every_thing  everything
+wrongly  wrong [adj]
+there  it 2
+tirement  00 ["tiredness"]
+engalfed  engulfed
+inorder  in_order
+finished  finish [inf]
+infront  in_front
+pushed  push [inf]
+absent  absence [n]
+was  were 2
+brough  brought
+series  serious
+071C
+behavioul  behaviour
+steped  stepped
+kicked  kicks
+beated  beats
+scolded  scold
+reached  reaches
+hated  hate [inf]
+brother  brother's
+everthing  everything
+won't  wouldn't
+shake  shook
+stopped  stop
+ashame  ashamed [adj]
+keeps  kept
+072C
+foreighn  foreign
+spoiled  spoil
+uncle  uncle's 2
+luckly  luckily
+food_poisoning  food-poisoning
+teachering  teaching
+avarable  available 2
+required_for  require
+your  yours
+mamured  murmur
+vience  Venice
+drove  drive
+steadyly  steadily 2
+smached  00 ["slammed"]
+skait  skirt 4
+tear  torn
+stucked  stuck
+luckyly  luckily
+covered  cover [inf]
+dressing_room  dressing-room
+keep  kept 2
+embarrested  embarrassed
+patiantly  patiently
+felt  feel 2
+neverous  nervous
+marallow  marvellous
+consentrating  concentrating
+understanded  understood
+ware  wore
+nonthing  nothing 2
+make  made
+shaked  shake [inf]
+speakless  speechless
+make  making
+pityfully  pitifully
+crossed  cross
+illnes  illness 2
+worse  worst
+inconvenience  inconvenienced
+school_children  schoolchildren
+074C
+food_poisoning  food-poisoning
+dead  die
+sencerely  sincerely
+raining  rainy 2
+sit  seat
+run  ran
+sunddenly  suddenly
+thing  think 2
+pastangger  passengers
+clim  climb
+throug  through
+wat  wet
+beatiful  beautiful
+hours  hour
+untill  until
+yours  your
+to  too
+a  an 2
+075C
+were  had 2
+ready  00 ["prepared"]
+placed  place [n] 2
+their  there
+despire  despair
+bore  bored [adj]
+think  thing
+mine  mind
+supertious  superstitious
+hesitate  hesitant
+fool  fooling
+swim  swam
+drink  drunk
+was  had
+we  me
+loss  lose
+itself  himself
+arround  around
+deetect  detect
+requirment  requirement
+your  yours
+076C
+country-side  countryside
+high_way  highway
+ours  our 4
+though  thought
+run  ran
+a  an
+examinate  examination
+077C
+reative  relatives 3
+our  us
+he  him
+weak  week
+they  the
+study  studying
+ring  rang
+want  went
+answering  answer [inf]
+tell  told
+way  where
+expended  00 ["express"]
+happnies  happiness
+wont  went
+words  word
+months  month
+graparents  grandparents
+gone  go [inf]
+unwelcome  00 [v = "not to welcome"] 2
+is  was
+telivision  television 2
+cann't  can't 3
+hours  hour
+studing  study
+wont  go
+sleepies  sleepy [adj]
+filling  feeling
+sleepness  sleepiness
+families  families'
+loss  lose
+heatly  healthy
+sole  sold
+your  yours
+sicencly  sincerely
+078C
+alarm_clock  alarm-clock
+bath_room  bathroom 2
+wound  wounded [adj]
+have  had
+decipline  discipline
+momment  moment
+run  ran
+tuckshop  tuck-shop
+have  had
+teached  taught
+throw  threw
+hungry  hunger [n]
+finished  finishing
+lunck  lunch
+sleep  slept
+do  did
+once  was
+I  my
+not  didn't
+food_poisoning  food-poisoning
+brough  bring
+diesease  disease
+their  they
+symtom  symptoms
+some_time  sometimes
+your  yours
+sincerly  sincerely
+079C
+it's  it
+noticed  notice [n]
+arrid  arrived
+quater  quarter
+weight  weighed
+have  had
+stopped  stop
+runaway  ran_away
+can't  couldn't
+controlled  control
+am  was
+it's  its
+was  were 2
+dead  died
+is  was
+make  made
+lately  late
+health  healthy
+your  yours
+080C
+are  were 2
+bore  boring [adj]
+cousin  cousin's 3
+residency  residence
+I've  I'd
+haven't  hadn't
+infact  in_fact
+went  gone
+sight_seeing  sightseeing
+have  had
+dressed  dressing
+sing  sung
+never_the_less  nevertheless
+alot  a_lot
+breathe  breath
+out_break  outbreak 3
+every_people  00 ["everybody"]
+lead  led
+are  is
+hoped  hope
+arranged  arrange
+your's  yours
+081C
+school_girl  schoolgirls
+infact  in_fact 2
+make  made
+has  had 3
+have  had
+formal  formally
+introductive  introductory
+surprices  surprises
+bid  bade
+good_byes  good-byes
+food_poisoning  food-poisoning
+loss  lose
+this  these
+dead  death
+surplus  supplier's
+082C
+orginal  organise 2
+friend  friend's
+are  is
+difficiently  difficult
+difficient  difficult
+their  them 3
+even_body  everybody
+is  was 2
+has  had
+arrival  arrived 2
+prepare  prepared [adj]
+taste  tasty
+this  these
+is  was
+standy  standing
+their  they 2
+diagreed  disagreed
+fly  fight 2
+flying  fighting 2
+tries  tried
+is  did
+no  not
+flight  fight
+always  away
+flighting  fighting 2
+wanted  wondered
+goode  good
+flighter  fighters
+stubban  stubborn
+doubfull  doubtful
+action  act [v]
+needs  needed
+citized  citizen 2
+local  locality 2
+083C
+eighteen  eighteenth
+joined  join [inf]
+others  other [adj]
+theirselves  themselves
+can  could
+saw  see [inf] 2
+gets  get ["had"]
+paser  parcel
+games  game
+sit  sat
+hall  whole
+getting  get ["become"] 2
+acts  acted 2
+shacking  shaking
+get  got ["began"]
+pool  00 the dance * was fulling
+fulling  00 ["becoming crowded, filling up"]
+shocked  00 ["fused"]
+can't  coildn't 2
+woods  00 ["pieces of wood"]
+tourch  torches
+disturd  disturb ["play about with"]
+coming  came
+scraching  screeching
+shocked  shock [n]
+people's  people
+disturded  disturbed
+suffering  suffer [inf]
+dead  died
+worst  worse
+084C
+had  has 3
+hard_working  hard-working
+accomodation  accommodation
+beside  besides
+this  these 3
+reached  reach [inf]
+get  got
+can  could
+differece  different [adj]
+care  00 ["cared_for"]
+widen  widened
+childrens  children
+planeterium  planetarium
+concern_about  is_concerned_with
+were  are
+further_more  furthermore 2
+have  had
+tried  try [inf]
+interfering  00 ["becoming infected"]
+had  have
+led  lead [inf]
+are  is
+085C
+school_mates  schoolmates
+get  got
+arrived  arrive [inf]
+living_room  living-room
+boy_friend  boyfriend
+every_body  everybody
+over_night  overnight
+won't  wouldn't
+begining  beginning
+pit's_lactrine  pit_latrines
+school_children  schoolchildren 2
+loss  lose
+happens  happened
+086C
+properly  probably
+inordered  in_order
+freshten  freshen
+it  its
+are  were
+will  would 2
+camed  came
+go  went
+finds  found
+take  took
+feels  feel
+waving  waves
+make  made
+see  saw 2
+felt  fell
+can  could 7
+carring  carrying
+there  their
+brings  brought 2
+faedap  ?fed_up
+requsted  requested
+moved  move [n]
+is  was
+religious  religion [n]
+feeled  felt
+interesting  interested
+excitment  excitement ["excited"]
+moves  move
+alot  a_lot
+spices  species
+properity  ?prosperity
+feels  felt
+thanks  thanked
+farmous  famous
+cleandiness  cleanliness
+caused  cause [inf]
+forbitten  forbidden
+represent  representing
+requesed  requested
+087C
+at  on
+shame  ashamed [adj]
+stuff_room  staffroom
+that  there
+inorder  in_order 3
+had  have
+lost  lose
+had  has
+incoveinence  inconvenient [adj]
+worst  worse
+was  has
+usatisfactory  unsatisfactory
+untill  until
+088C
+saw  see
+went  going 2
+can't  couldn't
+drew  threw
+draw  throw
+on  at
+cleaned  cleaning
+have  has
+there  they
+it's  their
+were  was
+089C
+felling  felt
+anxiety  anxious
+will  would
+announcement  announced
+run  ran 2
+their  his
+worried  worry
+past  pass
+don't  didn't 2
+am  was 2
+frighten  frightened 2
+do  did
+wrongry  wrong [adj]
+saw  see [inf] 2
+know  knew
+was  were 2
+stand  stood
+is  was
+know  now ["then"]
+feld  felt
+have  had
+forgot  forgotten
+scole  scolded
+percenger  passenger
+fell  felt
+shine  ?ashamed
+can't  couldn't
+food_poisoning  food-poisoning
+sometime  sometimes
+dead  died
+are  is
+received  receive [inf]
+your  yours
+sinceary  sincerely
+090C
+fews_day  few_days
+nessassary  necessary
+reached  00 ["arrived"]
+will  would
+attended  attending
+began  begun  the party was *
+clapped  clap [n]
+looked  look
+salats  salads
+have  had
+were_celebrating  celebrated
+this  these
+puzzle  parcel [passing the parcel, party game]
+shone  00 ["illuminated"]
+they  there
+does'nt  doesn't
+go  went
+were  was
+purpuse  purpose
+becoming  become
+caused  causes [n]
+had  were
+loss  lose
+inhygenic  unhygienic
+had  have
+as  us
+thank-you  thank_you
+091C
+recognised  00 ["know each other"]
+surprised  surprise [n]
+great  grateful [adj]
+have_get  got
+exciting  excited [adj] 2
+are  were 2
+reache  reached
+see  saw
+congratulation_to  congratulated
+make  made
+is  was
+starts  started
+sing  sang
+it's  there_was
+minits  minutes
+enjoyable  enjoyment
+them  the  some of * gest shine was just sit there
+gest  guests
+sit  sat 2
+shine  shy 3
+was  were 3
+say  said 2
+feel  felt
+uncomfort  uncomfortable [adj]
+won't  didn't
+farther  father
+send  sent ["took"]
+attacked  attack [n]
+serve  ?
+food_poisoning  food-poisoning
+loss  lose
+worstly  worse
+suplier  supplier
+dieases  diseases
+complaint  complain
+passion  patients 2
+took  take [inf]
+serious  seriously [adv]
+092C
+every_people  00 ["everybody"]
+lottry  lottery
+dangerous  danger [n]
+getting_marriage  get_married
+occured  occurred 3
+alarm_clock  alarm-clock
+was  had 2
+ran  run
+struck_deadly  00 ["stopped dead"]
+went  had_gone
+bath_room  bathroom
+fall  fell
+explainations  explanations
+shamed  ashamed
+my  I
+everythings  everything
+happens  happenings 2
+spent  spent
+safety  safely 2
+unlucky  00 ["bad luck", n]
+mandy  ?muddy
+thrown  threw
+get  got
+taken  taking
+donot  do_not
+taken  take ["consume"]
+unclear  unclean
+enought  enough
+check_up  check-up
+pollinations  pollution
+quick  quickly
+your  yours
+093C
+wheather  weather
+is  was
+shoping  shopping
+go  went 3
+meet  met
+supprise  surprised [adj]
+run  ran
+midder  ?
+fall  fell
+madicient  medicine
+tell  told 2
+see  saw
+jouney  journey 2
+o'clock  00 ["hours"]  I talk with him with a few *
+sit  sat
+get  got
+known  knew
+parrent  parents 2
+take  took 2
+knief  knife
+say  said
+will  would
+hunderd  hundred
+friten  frightened
+polish  police
+mounth  months
+way  why
+food_poisoning  food-poisoning
+dring  drink
+has_no  haven't  people * enough water
+sometime  sometimes
+crinit  clinic
+094C
+have  had
+hold  held 2
+went  gone
+gates  guests
+our_selves  ourselves
+gloomy  gloom [n]
+followed  following
+quite  quiet
+enjoyed  enjoying
+felt  feel
+sat  sad
+ashem  ashamed
+begining  beginning
+sometime  some_time
+pused  pushed
+started  start [inf]
+get  had
+food_poisoning  food-poisoning
+shopkeer  shopkeeper
+illed  ill
+loss  lose
+taken  to_take
+faitfully  faithfully
+095C
+saw  seen
+cigaratte  cigarette
+well  good  his * behaviour
+bitten  beaten
+ponch  punch
+unexpectedly  unexpected [adj]
+go  went
+said  say
+illed  ill
+doubtfull  doubtful
+arrived  arrive [inf]
+inorder  in_order
+requested  request
+hoped  hope [inf]
+inform  informed [adj]
+096C
+lucky  luck [n]
+unlucky  00 ["bad luck"]
+prevented  prevent
+peoples  people 4
+bressed  praise  to be buddhist and * God
+hope  hoping
+forgot  forget 2
+pinic  picnic
+sea_side  seaside
+sunsight  sunlight
+refleted  reflected
+goldern  golden
+windness  windless
+was_teached  taught
+was_bite  bit
+cann't  can't 2
+punctuared  punctured
+relized  realized
+shouted  shouts [n]
+here  me
+pained  paining
+sit  sat
+arounded  around
+had  was
+pain  painful
+accidently  accident [n]
+taken  took
+belived  believe
+lived  living
+presented  present
+contaminate  contaminated [adj]
+unproper  improper
+effeted  affected ["caused"]
+seriously  serious [adj]
+had  were
+dead  died
+complained  complain
+wether  whether
+signfiture  signature
+097C
+happen  had
+seen  seeing
+its  it_was
+greeding  greeting
+bought  brought
+angryed  angry
+what's  what
+plained  complained_about
+its  there_were
+stand  stood
+a_side  aside
+exciting  excitement
+ideal  ideas 2
+suprised  surprised
+exchanged  exchange
+danced  dance
+healthy  health [n]
+further_more  furthermore 2
+suffered  suffering
+money_less  00 ["lack of money"]
+were  was 2
+these  the
+infact  infected
+out_break  outbreak
+occured  occurred
+had  have
+occurrance  occurrence
+sent  send
+occurrean  occurrence
+lived  live
+098C
+irganized  organized
+fruist  fruits
+breeds  bread
+sandwishes  sandwiches
+wake  woke 2
+eg  egg
+dicorated  decorated
+balons  balloons
+celling  ceiling
+dicorated  decorating
+invaited  invited
+starting  started
+wear  wore
+are  were
+starting  start [inf]
+give  gave
+slept  swept
+wishing  washing
+food_poisoning  food-poisoning 3
+countries  00 ["area"?]
+dobtful  doubtful
+unhealty  unhealthy
+shool  school
+your  yours
+sinciatory  sincerely
+099C
+nearly  near [prep] 2
+remembered  remember
+pinic  picnic 3
+meet  met
+friend  friend's
+happenly  happy
+go  going
+sing  sang
+enjoyful  00 ["happy"]
+it  there
+infront  in_front 2
+road_side  roadside
+the_happening  this_happened
+our  us 3
+sit  sat
+wait  waiting
+light  00 ["slightly"]
+our  ours
+our  we
+helpped  helped
+take  took
+food_poisoning  food-poisoning
+hoped  hope [inf]
+furture  future
+sign  signed
+100C
+class-mate  classmate
+resident  residence
+class-mates  classmates 2
+before_hand  beforehand
+stood_up  00 ["prepared"]
+turned-up  turned_up
+non  none
+comfort  comfortable
+enjoy  enjoyable
+mid-night  midnight
+jokking  joking
+inconveniency  inconvenience
+should  are
+more_over  moreover
+$EGYPT
+001
+lik  like
+chose  choose
+deside  decide
+candidit  candidate
+unwrightable  unwritable
+imageration  imagination 2
+jade  ?lead  to let imageration * me into beliving
+beliving  believing
+mony  money
+havent  haven't
+your's  yours
+wich  which
+002
+chearned  ?yearned  I have always * to have
+paino  piano 10
+play  player
+beautful  beautiful 2
+instrement  instrument
+man_kind  mankind
+expecial  especially
+height  high  flying up * in the sky
+his_self  himself
+comftable  comfortable
+peany  penny
+tall  tell 2
+compettion  competition
+who_ever  whoever
+nat  ?  a good future with * job
+003
+tembles  temples
+practice  practise [v]
+grammer  grammar
+independant  independent  * of
+one's_self  oneself
+004
+saintety  ?saintliness  reach that point of *
+middle-age  middle_ages
+prey  pray 3
+increese  increase
+bit  ?bet  I * how many people have got
+humilated  humiliated
+reputance  reputation
+coton  cotton
+comprehensions  comprehension  more * [="better *"]
+licenses  licences [n]
+lukily  luckily
+responsibles  00 ["authorities"]  the * in Egypt
+005
+anounced  announced
+Africas  Africa's
+weather  whether
+profesionals  professionals
+secound  second
+meating  meeting 3
+alot  a_lot
+comunuating  communicating
+teem  team
+goles  goals
+untill  until
+a  are  there * many
+beffor  before
+us  as  such *
+hudge  huge
+arbian  arabian
+countrie's  country's
+finantial  financial
+some_how  somehow
+dolor  dollar
+flower  flour
+encourges  encourages
+independant  endependent [adj]
+twords  towards
+006
+cofee  coffee
+acters  actors
+finaly  finally
+Mickel  Michael
+exat  exact
+milions  millions
+smol  small
+realy  really
+it's  its  in * place
+dont  don't 2
+other_wise  otherwise
+habbit  habit
+begining  beginning
+afterwords  afterwards
+unfortunatly  unfortunately
+007
+happeness  happiness
+out-side  outside
+Eygpt  Egypt
+008
+heavey  heavy
+want  won't
+difrent  different
+any_one  anyone
+any_body  anybody
+cautch  coach  a boxing *
+carring  carrying
+repleid  replied
+regga  reggae
+Micheal  Michael
+inter-view  interview
+X-champion  ex-champion
+unecessary  unnecessary
+wright  right
+salery  salary
+supose  suppose
+alway  always
+futur  future
+busines  business
+succesful  successful
+nowaday  nowadays
+beging  beginning
+millionares  millionaires
+them_selves  themselves
+neccessary  necessary
+wast  waste
+somking  smoking
+to_day  today
+your  you're
+managment  management
+009
+facinated  fascinated
+dimentions  dimensions
+proffecional  professional
+forgin  foreign 6
+accourdance  accordance
+advertisment  advertisement
+010
+mension  mention
+boxter  boxer
+anwering  answering
+facte  face
+alot  a_lot
+instant  instance  for *
+currence  currency
+ecomic  economic
+choclate  chocolate
+farners  ?foreigners
+pround  proud
+011
+check  cheque
+millionare  millionaire
+swiming  swimming
+knew  new 2
+sieze  seize
+ammusement  amusement
+class_mates  classmates
+competitons  competitions
+over_emphassised  over-emphasized
+patners  partners
+013
+questiones  questions 2
+hopies  hobbies
+succesful  successful 2
+freinds  friends
+feal  feel
+lik  like
+internationaly  internationally
+espicially  especially 2
+amunition  ammunition
+armes  arms
+midle  middle
+coarse  course  of *
+southerer  southern
+econonically  economically
+014
+soon_later  sonner_or_later
+sees  seas
+015
+magnificient  magnificent
+comunications  communications
+016
+persom  person
+chose  choose
+017
+obsticles  obstacles
+amusment  amusement
+lifely  lively
+excitment  excitement
+maintined  maintained
+maintaning  maintaining
+physicall  physical
+excercise  exercise
+018
+imaging  imagine
+whale  whole
+tequnike  technique
+automataphie  ?onomatopoeia  Tennyson used *
+alway  always
+interuduce  introduce
+surly  surely
+magine  imagine
+Vactorian  Victorian
+affective  affected
+privite  private
+marrage  marriage
+famouset  00 ["most famous"]
+whol  whole
+pharonic  pharaonic 2
+indestry  industry
+cilivized  civilized
+countrye  countries
+suituble  suitable
+calutivated  cultivated
+resturant  restaurant
+rebulti  rebuilt
+cares  cars
+shipes  ships
+seases  seas
+anicient  ancient
+copticle  coptic
+019
+shose  chose
+famoust  famous [?"most famous"]
+bout  bought
+now  know
+nowledg  knowledge
+reeding  reading
+presedent  president
+admited  admitted
+revelutinary  revolutionary
+commity  committee
+secertary  secretary
+appointement  appointment
+towmorow  tomorrow
+interduced  introduced
+gater  00 ["guard on a gate"]
+sate  sat
+setuation  situation
+dreeming  dreaming
+wanderful  wonderful
+sade  sad
+in-port  import
+one_self  oneself
+ar  are
+thinck  think
+sertain  certain
+bayed  payed
+cocky  ?cooker
+diliverd  delivered
+desaster  disaster
+econimic  economic
+allover  all_over
+productes  products
+governement  government
+weather  whether 2
+
+expaired  expired
+lote  lot
+truble  trouble
+expairy  expiry
+concedered  considered
+pluse  plus
+taxe  tax
+020
+ecimomical  economic
+advatages  advantages
+pyramides  pyramids
+pharons  pharaohs
+021
+choes  choose
+boxind  boxing
+memoreis  memories
+somthing  something
+intreview  interview
+quistion  question
+advise  advice
+biginer  beginner
+benifishial  beneficial
+competion  competition
+diffrent  different 2
+yeild  yield
+spoild  spoiled
+qualty  quality
+any_thing  anything
+anshante  ancient
+vist  visit
+torists  tourists
+torisim  tourism
+knoldelge  knowledge
+comptions  competitions
+benifished  beneficial
+tourisim  tourism
+usful  useful
+022
+imagin  imagine 2
+beutiful  beautiful
+favouret  favourite
+were  where
+lik  like
+now_a_days  nowadays
+mangment  management
+advise  advice 2
+beifited  benefitted
+exporte  export
+benfit  benefit
+managment  management
+023
+plesure  pleasure
+tambula  tombola
+missfortune  misfortune
+beleive  believe
+programes  programmes 2
+realy  really
+can'nt  can't
+illeteracy  illiteracy
+advertisments  advertisements
+024
+by  be  it would *
+by  buy
+knifes  knives
+decrated  decorated
+carrot  carat
+coton  cotton 3
+countries'  country's
+factries  factories
+025
+robbot  robot 5
+obeyance  obedience
+divils  devils
+independance  independence
+026
+colleges  colleagues
+economic  economics
+non-sense  nonsense
+maze  maize
+rennaisence  renaissance
+tanking  taking
+important  importance
+027
+currancy  currency 2
+contries  countries
+perles  pearls
+028
+tim  time
+travell  travel
+hoby  hobby
+anable  enable
+trolling  trawling
+were  where
+be_cause  because
+straw-berries  strawberries
+Europian  European
+descisions  decisions
+029
+humourous  ?enormous  a * number of trains
+arround  around
+simalteneously  simultaneously
+unconginial  uncongenial
+taxies  taxis
+prefare  prefer
+appoinments  appointments
+motorcycls  motorcycles
+every_where  everywhere
+accross  across
+forebear  ?  this idea is a * one
+impecably  impeccably
+fourty  forty
+mony  money
+with_out  without 3
+can_not  cannot
+insted  instead
+factors  factories
+iliterate  illiterate
+030
+choosen  chosen
+breath  breathe
+concidered  considered
+foriegn  foreign
+our's  ours
+031
+programs  programmes 4
+leasure  leisure
+listent  listen
+032
+milliainere  millionaire
+loud_speakers  loudspeakers
+hoppies  hobbies
+child_hood  childhood
+sacrafice  sacrifice
+inport  import
+agricelture  agriculture
+033
+purety  purity
+satisfay  satisfy
+thing  think 2
+warring  worrying
+carring  caring
+wondruful  wonderful
+some_times  sometimes
+some_thing  something 2
+tills  tells
+climit  climate
+altough  although
+034
+fascanated  fascinated
+weak  week
+my_self  myself
+every_one  everyone
+economic  economy 4
+valuabe  valuable
+035
+heighst  highest
+every_one  everyone
+realy  really
+036
+country_side  countryside
+farthermore  furthermore
+grops  crops
+companys  companies
+thanful  thankful
+037
+twentineth  twentieth
+achievments  achievements
+woud  would
+advertisment  advertisement
+038
+presedent  president
+startes  start
+Regan  Reagan
+Israil  Israel
+Israils  Israelis
+every_where  everywhere
+Lebenon  Lebanon
+distroyed  destroyed 2
+stool  stole
+secreats  secrets
+the  then
+neouclear  nuclear
+posible  possible
+suize  Suez 2
+factorys  factories 2
+caltivated  cultivated
+olso  also
+Uropian  European
+throught  through
+manifactured  manufactured
+sum  some
+countrys  countries
+payed  paid
+there  their
+039
+practice  practise [v]
+pour  poor
+cetrain  certain
+040
+habbits  habits 2
+necessties  necessities
+temporarly  temporarily
+divid  divide
+wantings  wants  try to lower his *
+041
+shool  school
+immediatly  immediately 2
+who's  whose
+regrated  regretted
+spent  spend
+airoplane  aeroplane
+deppnd  depend
+042
+every_one  everyone
+infront  in_front
+religous  religious
+can_not  cannot
+softy  safety
+neccesities  necessities
+relaying  relying
+043
+airplane  aeroplane 4
+may_be  maybe
+programs  programmes
+touristre  tourist  ["trips"]
+044
+agricalture  agriculture
+scientifical  scientific
+benifits  benefits 2
+disappearence  disappearance
+needles  needless
+045
+Reegan  Reagan 3
+powerfull  powerful
+Sheirnienco  Chernenko 2
+desigines  designs
+desigins  designs
+goverment  government
+oppointment  appointment
+concidered  considered 4
+Mosccow  Moscow
+Afaganistan  Afghanistan
+disccus  discuss
+where  were
+Israil  Israel 2
+Lebenon  Lebanon
+concerend  concerned
+finised  finished
+finnest  finest
+loomy  loamy
+begining  beginning 2
+claimax  climax
+Assian  Asian
+pharos  pharaohs
+046
+peopl  people
+neet  neat
+youn  young
+happyness  happiness 2
+every_one  everyone 3
+can_not  cannot
+coutries  countries
+every_thing  everything
+047
+good  goods
+expansive  expensive 2
+cigarrette  cigarette
+faroan's  pharaoh's
+after_noon  afternoon
+things  thing
+well_made  well-made
+intresting  interesting
+taking  talking
+question  questions
+managment  management
+advices  advice
+steel  steal
+steeling  stealing
+lived  lives
+every_one  everyone
+048
+champion-ship  championship
+Brazelien  Brazilian
+crops  crop
+improve  improves
+economical  economic 2
+049
+luxuriant  luxurious 2
+to_awe  00 ["of_owning/having"]
+prefered  preferred
+can  could
+trainned  trained
+choosed  chose
+fulfill  fulfil
+stored  00 ["saved"] 2
+lands  land  cultivating *
+explore  ?export  the country's ability to * crops
+050
+choose  chosen
+struggle  struggles
+dimocratic  democratic
+will  would
+habit  habits
+longern  long-term
+perefer  ?prefer
+inport  import
+some_thing  something
+neighbour  neighbouring
+county  country 3
+wich  which
+is  are 3
+inorder  in_order 3
+import  imports
+distroey  destroy
+with_out  without
+advantageous  advantages
+benefit  beneficial
+$FRANCE
+001
+bilt  built
+seing  seeing
+cars  car  each *
+imediatly  immediately
+coupable  00 ["guilty"]
+002
+please  pleased [adj] 2
+an  a
+monument  monuments  we have famous *
+offer  offers  the town * you
+adult  adults  children and *
+interrested  interested 2
+center  centre
+Britany  Brittany
+practice  practise [v]
+begining  beginning
+sympatic  sympathetic [F "sympathique"]
+tryed  tried
+it  he
+leaved  left 2
+003
+glanze  glance
+dissapeared  disappeared
+plugged  00 ["pulled"]
+affraid  afraid
+lawer  lawyer
+murder  murderer
+saving  saved
+studiing  studying
+004
+sight-seeing  sightseeing
+good-week  have_a_good_week
+dommage  damage
+disencourage  discourage
+005
+take-off  take_off  waiting for the plane to *
+hall_departure  departure_hall
+set-back  setback
+come  came
+perfum  perfume
+hairhostess  air-hostess
+may  might
+miss  mess 2
+mecanic  mechanics
+raisonable  reasonable
+radio-cassette  radio-cassette's
+join  00 ["attach, enclose"]
+stamped_adressed  stamped-addressed
+envelop  envelopd
+006
+tack  taken
+pression  pressure  the * of public opinion
+punishments  punishment
+unhonourable  dishonourable
+her  his
+can_not  cannot
+007
+an  a  * horrible smile
+falling  fall  * down on my feet
+of  on
+eard  heard
+comings  coming  shouts * from the car
+support  00 ["tolerate"]
+diner  dinner
+dinning_room  dining-room
+begining  beginning
+swimingpool  swimming-pool
+would  will
+had  have
+borders  boarders
+team_of_cricket  cricket_team
+town  towns
+appreciats  appreciate
+arrange  arranged
+results  result  * of the cricket match
+008
+desagreable  disagreeable
+it's  it is  how desagreable * to spend time
+an  a  * holiday
+began  00 ["became""]
+009
+the_all  all_the  * staff of the town
+administratif  administrative
+other  others  many *
+arriving  arrival
+everibody  everybody
+annoising  ?annoying  less * than in school
+althought  although
+leave  live
+holyday  holidays
+water_skiing  water-skiing
+natical  nautical
+seems  seemed
+can  can't
+spend  spent
+to  too 3
+quicquly  quickly
+takes  take
+mine  my
+010
+seating  sitting
+loudy  louder 2
+thinks  think 2
+punishements  punishments 4
+every_body  everybody
+little  00 ["small"]  a * number of people
+more_in_security  more_secure
+killed  kill
+condamned  condemned
+defense  defence
+011
+insecured  insecure [adj]
+constently  constantly
+airplane  aeroplane
+that  that's  * too much
+problem  problems
+condamn  condemn
+committed  commit
+fascism_adept  adept_of_fascism
+may_be  maybe
+harmonia  harmony
+actually  00 ["currently"]
+actual  00 ["current"]
+forein  foreign
+peacefull  peaceful
+forest  forests
+012
+somedy  somebody
+felt  fallen
+013
+begun  began 3
+cross  crossing  a pedestrian * [n]
+jamed  jammed
+feel  feels
+what  that
+arounds  00 ["surroundings"]
+you'll  you  * can practice
+practice  practise
+014
+riding_horses  horse-riding
+fairies  ?fairs  cinema, sports, riding horses, * and of course shopping
+no  not
+penalty_death  death_penalty 3
+015
+recorder  recorders
+wave_length  wavelength
+move  moved
+tape_recorder  tape-recorder
+unreel  00 ["unwind"]
+voice  voices
+send  am_sending  I * you back today
+seperate  separate
+an_other  another
+untill  until
+yourself  yourselves
+016
+manufacture  00 ["factory"]
+favorite  favourite
+default  fault
+faithfull  faithful
+customer  customers
+have  has
+behavior  behaviour
+nowdays  nowadays
+fellowman  fellow_man
+indulge  00 ["impress upon"]
+017
+bught  bought
+radio_cassette  radio-cassette
+stoped  stopped
+need  needs
+wether  whether
+mediteranean  mediterranean
+cost  coast
+last  latest  the * better movies
+swiming  swimming
+sports  sport
+many  much  * progress
+planing  planning
+shoping  shopping
+unhabitants  inhabitants
+it's_need  00 ["it takes"]  * aproximatively the same time
+aproximatively  approximately
+018
+adressed  addressed
+let  let's  but * see
+rubber  robber
+skillfull  skilful
+teen-agers  teenagers 2
+spsychiatrist  psychiatrist
+is  are
+others  other  two * kinds
+penalty_to_death  death_penalty
+019
+machin  machine
+may_be  maybe
+shinny  ?shiny ["sunny"?]
+week-end  weekend
+visite  visit
+critizing  criticizing
+020
+bad-mood  bad_mood
+forget  forgotten
+evocate  evoke
+travel  00 ["journey"]
+poors  poor_people
+use  used
+hapiness  happiness
+world  world's
+unhapiness  unhappiness
+condamned  condemned
+criminology  crime  the increase of *
+usefull  useful
+week-ends  weekend  every *
+gardenning  gardening
+helpfull  helpful
+prisonner's  prisoners
+reinsertion  00 ["rehabilitation"]
+punishements  punishments
+prisonners  prisoners
+considerate  consider [v]
+021
+use  used
+prevent  prevented
+agreable  agreeable
+it's  it_is  how agreable * to admire
+call  called
+all  00 ["everything"]  you can see * by walking
+dears  dear  my * children
+022
+doesnot  does_not
+defection  defect
+dauther  daughter
+he  she
+mentions  mention ["instruction"]
+utilisation  use
+a  an 4
+an_other  another
+distinguish  distinguished
+whas  was
+caracter  character 3
+faisible  feasible ["easy"]
+unuisable  00  he liked faisible and * life
+conuctulation  ?congratulations  my best * for the new years
+years  year
+ancensious  ?anxious  very proud and * about his friends
+exemple  example
+prevent  prevented
+amator  amateur
+reconize  recognize
+policier's  00 ["crime"]  * novels
+no  not
+affraid  afraid
+enquest  inquire
+racketters  racketeers
+unfortunatly  unfortunately
+ligth  light
+myterey  mystery
+novelist  novelists
+023
+war  wars
+problem  problems
+museum  museums
+citizen  citizens
+024
+apparal  00 ["machine"]
+default  fault 3
+radio_cassette  radio-cassette
+program  programme 2
+one_day  one-day  * visit
+renomee  00 ["fame"]
+religeous  religious
+center  centre
+025
+fortnight  fortnight's
+quite  quiet 3
+dark-eye  dark-eyed  a * man
+suprised  surprised
+heard  hear [inf]
+to_make  for_making
+were  was
+annoyed  annoying
+speek  speak
+bite  bit
+mean  means
+to_provide  of_providing
+conception  concepts
+completly  completely
+thiefs  thieves
+learn  00 ["teach"]
+any_thing  anything ["something"]
+over  other  on the * hand
+made  make
+>>>>>>> 9f8e340be0e0a1c8f70a786d7df14a11a5044a69
 any_way  anyway
 relative  relativelyI
 injures,  injuries
